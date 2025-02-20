@@ -1,0 +1,24 @@
+{
+  "id": "xY1Ym7c0B4jxW5B",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/mpf/products/employers/setup-transfer-company-scheme",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:44:14.292030+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/mpf/products/employers/setup-transfer-company-scheme/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/mpf/products/employers/setup-transfer-company-scheme/",
+    "handled_at": "2025-02-20 12:44:14.292030+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/mpf/products/employers/setup-transfer-company-scheme",
+    "id": "xY1Ym7c0B4jxW5B"
+  }
+}

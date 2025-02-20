@@ -1,0 +1,24 @@
+{
+  "id": "dDJ5H8DVcZrmYb2",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/healthylife/user-guide-hsbc-llife.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:25:06.317377+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/healthylife/user-guide-hsbc-llife.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:25:06.317377+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/healthylife/user-guide-hsbc-llife.pdf",
+    "id": "dDJ5H8DVcZrmYb2"
+  }
+}

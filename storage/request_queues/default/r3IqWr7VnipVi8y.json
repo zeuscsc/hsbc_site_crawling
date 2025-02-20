@@ -1,0 +1,24 @@
+{
+  "id": "r3IqWr7VnipVi8y",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/earlyincome-annuity-plan/dementia-leaflet.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:35:18.652781+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/earlyincome-annuity-plan/dementia-leaflet.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:35:18.652781+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/earlyincome-annuity-plan/dementia-leaflet.pdf",
+    "id": "r3IqWr7VnipVi8y"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "KpZEFefCvSJclAb",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth/insights/market-outlook/india-economics/2023-05-23",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:45:41.064008+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/wealth/insights/market-outlook/india-economics/2023-05-23/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 6
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/wealth/insights/market-outlook/india-economics/2023-05-23/",
+    "handled_at": "2025-02-20 12:45:41.064008+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth/insights/market-outlook/india-economics/2023-05-23",
+    "id": "KpZEFefCvSJclAb"
+  }
+}

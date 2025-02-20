@@ -1,0 +1,24 @@
+{
+  "id": "q4VwKs6Cktzy67V",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/investments/structured/supplemental-terms-and-conditions-for-currency-linked-structured-investment-deposits.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:34:20.308373+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/investments/structured/supplemental-terms-and-conditions-for-currency-linked-structured-investment-deposits.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:34:20.308373+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/investments/structured/supplemental-terms-and-conditions-for-currency-linked-structured-investment-deposits.pdf",
+    "id": "q4VwKs6Cktzy67V"
+  }
+}

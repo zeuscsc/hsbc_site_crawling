@@ -1,0 +1,24 @@
+{
+  "id": "M28U7knULhWmTmf",
+  "unique_key": "https://www.warrants.hsbc.com.hk/en/tools/search",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:58:47.046712+00:00",
+  "request": {
+    "url": "https://www.warrants.hsbc.com.hk/en/tools/search",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.warrants.hsbc.com.hk/en/tools/search",
+    "handled_at": "2025-02-20 10:58:47.046712+00:00",
+    "unique_key": "https://www.warrants.hsbc.com.hk/en/tools/search",
+    "id": "M28U7knULhWmTmf"
+  }
+}

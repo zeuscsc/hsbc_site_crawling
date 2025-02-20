@@ -1,0 +1,24 @@
+{
+  "id": "qi4wOuz4cBL0xYB",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/orso/tool/pooled-provident-plan/cumulative-performance",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:27:41.865126+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/orso/tool/pooled-provident-plan/cumulative-performance/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/orso/tool/pooled-provident-plan/cumulative-performance/",
+    "handled_at": "2025-02-20 12:27:41.865126+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/orso/tool/pooled-provident-plan/cumulative-performance",
+    "id": "qi4wOuz4cBL0xYB"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "KhFEnpDLdu0HdE5",
+  "unique_key": "https://retailbank.hsbc.com.hk/debit-card/en",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:06:12.839468+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/debit-card/en/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/debit-card/en/",
+    "handled_at": "2025-02-20 11:06:12.839468+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/debit-card/en",
+    "id": "KhFEnpDLdu0HdE5"
+  }
+}

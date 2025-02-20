@@ -1,0 +1,24 @@
+{
+  "id": "CQhqPZgtrP4qrD1",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/help/cybersecurity-and-fraud/gen-z",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:27:42.881849+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/help/cybersecurity-and-fraud/gen-Z/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/help/cybersecurity-and-fraud/",
+    "handled_at": "2025-02-20 12:27:42.881849+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/help/cybersecurity-and-fraud/gen-z",
+    "id": "CQhqPZgtrP4qrD1"
+  }
+}

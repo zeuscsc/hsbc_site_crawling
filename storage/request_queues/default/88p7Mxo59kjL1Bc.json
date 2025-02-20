@@ -1,0 +1,24 @@
+{
+  "id": "88p7Mxo59kjL1Bc",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/investment_bonus_badge_tc_sc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:36:20.908427+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/Investment_Bonus_Badge_TC_SC.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:36:20.908427+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/investment_bonus_badge_tc_sc.pdf",
+    "id": "88p7Mxo59kjL1Bc"
+  }
+}

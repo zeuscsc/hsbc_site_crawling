@@ -1,0 +1,24 @@
+{
+  "id": "r3UEsKL0hQFM0RL",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/premier/offers/special-offers/sherpa-shen-qing-dian-zi-qian-zheng-ke-xiang-gao-da9zhe-you-hui-19-08-2026",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:40:34.640866+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/premier/offers/special-offers/sherpa-shen-qing-dian-zi-qian-zheng-ke-xiang-gao-da9zhe-you-hui-19-08-2026/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/premier/offers/special-offers/sherpa-shen-qing-dian-zi-qian-zheng-ke-xiang-gao-da9zhe-you-hui-19-08-2026/",
+    "handled_at": "2025-02-20 12:40:34.640866+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/premier/offers/special-offers/sherpa-shen-qing-dian-zi-qian-zheng-ke-xiang-gao-da9zhe-you-hui-19-08-2026",
+    "id": "r3UEsKL0hQFM0RL"
+  }
+}

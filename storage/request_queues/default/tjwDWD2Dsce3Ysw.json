@@ -1,0 +1,24 @@
+{
+  "id": "tjwDWD2Dsce3Ysw",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/red/ewelcome-pack.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:20:14.178690+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/red/ewelcome-pack.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:20:14.178690+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/red/ewelcome-pack.pdf",
+    "id": "tjwDWD2Dsce3Ysw"
+  }
+}

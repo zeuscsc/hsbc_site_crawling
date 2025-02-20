@@ -1,0 +1,24 @@
+{
+  "id": "8VC7RFcujTTDyOa",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/red-hot-shopping-special/kai-tak-mall/ktsp",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:52:11.521742+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/red-hot-shopping-special/kai-tak-mall/ktsp/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/red-hot-shopping-special/kai-tak-mall/ktsp/",
+    "handled_at": "2025-02-20 11:52:11.521742+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/red-hot-shopping-special/kai-tak-mall/ktsp",
+    "id": "8VC7RFcujTTDyOa"
+  }
+}

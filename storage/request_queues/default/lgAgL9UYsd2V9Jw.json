@@ -1,0 +1,24 @@
+{
+  "id": "lgAgL9UYsd2V9Jw",
+  "unique_key": "https://www.hsbc.com.hk/help/cybersecurity-and-fraud/download-software",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:29:17.952451+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/help/cybersecurity-and-fraud/download-software/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/help/cybersecurity-and-fraud/download-software/",
+    "handled_at": "2025-02-20 12:29:17.952451+00:00",
+    "unique_key": "https://www.hsbc.com.hk/help/cybersecurity-and-fraud/download-software",
+    "id": "lgAgL9UYsd2V9Jw"
+  }
+}

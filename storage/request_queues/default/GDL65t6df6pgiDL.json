@@ -1,0 +1,24 @@
+{
+  "id": "GDL65t6df6pgiDL",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/broking/digital-services/user%20guide%20for%20hsbc%20broking%20mobile%20trading%20(tchi).pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:44:26.387195+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/broking/digital-services/User%20Guide%20for%20HSBC%20Broking%20Mobile%20Trading%20(TCHI).pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 5
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:44:26.387195+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/broking/digital-services/user%20guide%20for%20hsbc%20broking%20mobile%20trading%20(tchi).pdf",
+    "id": "GDL65t6df6pgiDL"
+  }
+}

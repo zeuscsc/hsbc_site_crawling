@@ -1,0 +1,24 @@
+{
+  "id": "6q7iIVwiJRRQZHb",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/orso/pooled-provident-plan/e02792381-hsbc-ppp-v09-1022-(without-gf)-tc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:42:23.294378+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/orso/pooled-provident-plan/E02792381-HSBC-PPP-v09-1022-(without-GF)-TC.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:42:23.294378+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/orso/pooled-provident-plan/e02792381-hsbc-ppp-v09-1022-(without-gf)-tc.pdf",
+    "id": "6q7iIVwiJRRQZHb"
+  }
+}

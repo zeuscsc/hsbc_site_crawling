@@ -1,0 +1,24 @@
+{
+  "id": "rGFFV3Ecdh2piMv",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/investments/products/ipo/information?assetclasscodes=bond&frompage=historical&ipocode=g18493",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:22:37.854529+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/investments/products/ipo/information/?ipoCode=G18493&assetClassCodes=BOND&fromPage=historical",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/investments/products/ipo/information/?ipoCode=G18493&assetClassCodes=BOND&fromPage=historical",
+    "handled_at": "2025-02-20 12:22:37.854529+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/investments/products/ipo/information?assetclasscodes=bond&frompage=historical&ipocode=g18493",
+    "id": "rGFFV3Ecdh2piMv"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "zWPA0mnnwAHhg1H",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/help/cybersecurity-and-fraud/atm-scams",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:37:46.864710+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/help/cybersecurity-and-fraud/atm-scams/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/help/cybersecurity-and-fraud/atm-scams/",
+    "handled_at": "2025-02-20 11:37:46.864710+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/help/cybersecurity-and-fraud/atm-scams",
+    "id": "zWPA0mnnwAHhg1H"
+  }
+}

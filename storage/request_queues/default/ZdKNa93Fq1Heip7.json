@@ -1,0 +1,24 @@
+{
+  "id": "ZdKNa93Fq1Heip7",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/76368321/2025-hp-dining-tnc_en.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:32.820810+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/media/76368321/2025-HP-Dining-TNC_EN.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:32.820810+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/76368321/2025-hp-dining-tnc_en.pdf",
+    "id": "ZdKNa93Fq1Heip7"
+  }
+}

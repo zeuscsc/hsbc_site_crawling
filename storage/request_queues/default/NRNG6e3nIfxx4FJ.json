@@ -1,0 +1,24 @@
+{
+  "id": "NRNG6e3nIfxx4FJ",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/www.hsbc.com.hk/creditcard",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:50:38.791708+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/www.hsbc.com.hk/creditcard",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/www.hsbc.com.hk/creditcard",
+    "handled_at": "2025-02-20 11:50:38.791708+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/www.hsbc.com.hk/creditcard",
+    "id": "NRNG6e3nIfxx4FJ"
+  }
+}

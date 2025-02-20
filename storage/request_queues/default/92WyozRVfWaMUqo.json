@@ -1,0 +1,24 @@
+{
+  "id": "92WyozRVfWaMUqo",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/wealth/insights/market-outlook/asean-in-focus/2023-03-29",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:44:44.707221+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/wealth/insights/market-outlook/asean-in-focus/2023-03-29/#top-of-content",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 6
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/wealth/insights/market-outlook/asean-in-focus/2023-03-29/#top-of-content",
+    "handled_at": "2025-02-20 12:44:44.707221+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/wealth/insights/market-outlook/asean-in-focus/2023-03-29",
+    "id": "92WyozRVfWaMUqo"
+  }
+}

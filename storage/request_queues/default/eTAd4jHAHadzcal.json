@@ -1,0 +1,24 @@
+{
+  "id": "eTAd4jHAHadzcal",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/orso/user-guide-for-new-orso-pib-interface.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:05.130432+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/orso/user-guide-for-new-orso-pib-interface.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:38:05.130432+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/orso/user-guide-for-new-orso-pib-interface.pdf",
+    "id": "eTAd4jHAHadzcal"
+  }
+}

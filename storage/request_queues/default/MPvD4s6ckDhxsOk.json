@@ -1,0 +1,24 @@
+{
+  "id": "MPvD4s6ckDhxsOk",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/credit-cards/rewards/octopus",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:05:06.248171+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/credit-cards/rewards/octopus/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/credit-cards/rewards/",
+    "handled_at": "2025-02-20 12:05:06.248171+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/credit-cards/rewards/octopus",
+    "id": "MPvD4s6ckDhxsOk"
+  }
+}

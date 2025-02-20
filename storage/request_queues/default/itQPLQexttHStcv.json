@@ -1,0 +1,24 @@
+{
+  "id": "itQPLQexttHStcv",
+  "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2023/may/fulfillment_ratio",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:25:20.913177+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2023/may/fulfillment_ratio/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2023/may/fulfillment_ratio/",
+    "handled_at": "2025-02-20 12:25:20.913177+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2023/may/fulfillment_ratio",
+    "id": "itQPLQexttHStcv"
+  }
+}

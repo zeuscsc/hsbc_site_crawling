@@ -1,0 +1,24 @@
+{
+  "id": "yU3gSGW1mgbpNFu",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/well_plus_data_privacy_notice_tc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:36:14.751172+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/well_plus_data_privacy_notice_tc.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:36:14.751172+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/well_plus_data_privacy_notice_tc.pdf",
+    "id": "yU3gSGW1mgbpNFu"
+  }
+}

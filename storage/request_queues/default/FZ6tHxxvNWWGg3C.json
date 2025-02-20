@@ -1,0 +1,24 @@
+{
+  "id": "FZ6tHxxvNWWGg3C",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/misc/insurance/total-payout-ratio",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:28:34.310176+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/misc/insurance/total-payout-ratio/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/misc/insurance/total-payout-ratio/",
+    "handled_at": "2025-02-20 11:28:34.310176+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/misc/insurance/total-payout-ratio",
+    "id": "FZ6tHxxvNWWGg3C"
+  }
+}

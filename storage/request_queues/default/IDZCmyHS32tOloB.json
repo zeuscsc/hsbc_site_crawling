@@ -1,0 +1,24 @@
+{
+  "id": "IDZCmyHS32tOloB",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/insurance",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:20:04.544348+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/insurance/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:20:04.544348+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/insurance",
+    "id": "IDZCmyHS32tOloB"
+  }
+}

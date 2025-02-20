@@ -1,0 +1,24 @@
+{
+  "id": "mS0UXVxqCC2sTKV",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth/insights/market-outlook/macro-monthly/2023-06",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:45:41.023985+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/wealth/insights/market-outlook/macro-monthly/2023-06/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 6
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/wealth/insights/market-outlook/macro-monthly/2023-06/",
+    "handled_at": "2025-02-20 12:45:41.023985+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth/insights/market-outlook/macro-monthly/2023-06",
+    "id": "mS0UXVxqCC2sTKV"
+  }
+}

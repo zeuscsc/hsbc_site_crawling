@@ -1,0 +1,24 @@
+{
+  "id": "u1Iy0kHg8rnLyi2",
+  "unique_key": "https://www.hsbc.com.hk/wealth/insights/video/investment-themes/2020-05-21",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:36:37.311601+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/wealth/insights/video/investment-themes/2020-05-21/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/wealth/insights/video/investment-themes/2020-05-21/",
+    "handled_at": "2025-02-20 12:36:37.311601+00:00",
+    "unique_key": "https://www.hsbc.com.hk/wealth/insights/video/investment-themes/2020-05-21",
+    "id": "u1Iy0kHg8rnLyi2"
+  }
+}

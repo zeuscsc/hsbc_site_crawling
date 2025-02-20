@@ -1,0 +1,24 @@
+{
+  "id": "kGyOcZ6A3sQfuqu",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/credit-card-terms-and-conditions-jan-2024.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:58.539019+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/credit-card-terms-and-conditions-jan-2024.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:38:58.539019+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/credit-card-terms-and-conditions-jan-2024.pdf",
+    "id": "kGyOcZ6A3sQfuqu"
+  }
+}

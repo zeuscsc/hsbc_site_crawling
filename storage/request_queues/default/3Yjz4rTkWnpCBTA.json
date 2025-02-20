@@ -1,0 +1,24 @@
+{
+  "id": "3Yjz4rTkWnpCBTA",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/investments/hsbc%20flexinvest%20user%20guide_sc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:42.736027+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/investments/HSBC%20FlexInvest%20User%20Guide_SC.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:42.736027+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/investments/hsbc%20flexinvest%20user%20guide_sc.pdf",
+    "id": "3Yjz4rTkWnpCBTA"
+  }
+}

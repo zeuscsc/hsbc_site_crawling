@@ -1,0 +1,24 @@
+{
+  "id": "JNybe2KiDsZW6bx",
+  "unique_key": "https://www.hsbc.com.hk/wealth/insights/fx-insights/fx-trends/fx-eyes-on-us-trade-policy-developments",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:48:49.743493+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/wealth/insights/fx-insights/fx-trends/fx-eyes-on-us-trade-policy-developments/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/wealth/insights/fx-insights/fx-trends/fx-eyes-on-us-trade-policy-developments/",
+    "handled_at": "2025-02-20 10:48:49.743493+00:00",
+    "unique_key": "https://www.hsbc.com.hk/wealth/insights/fx-insights/fx-trends/fx-eyes-on-us-trade-policy-developments",
+    "id": "JNybe2KiDsZW6bx"
+  }
+}

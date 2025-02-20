@@ -1,0 +1,24 @@
+{
+  "id": "9uEbc4kqbdK0Mpc",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/premier-elite/medical-concierge/cuhk-medical-centre-identiy-guide.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:16:43.127193+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/premier-elite/medical-concierge/cuhk-medical-centre-identiy-guide.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:16:43.127193+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/premier-elite/medical-concierge/cuhk-medical-centre-identiy-guide.pdf",
+    "id": "9uEbc4kqbdK0Mpc"
+  }
+}

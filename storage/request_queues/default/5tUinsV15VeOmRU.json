@@ -1,0 +1,24 @@
+{
+  "id": "5tUinsV15VeOmRU",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/community-banking/financial-education-for-pre-teens-and-teenagers-smart-gaming.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:36:37.821876+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/community-banking/financial-education-for-pre-teens-and-teenagers-smart-gaming.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:36:37.821876+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/community-banking/financial-education-for-pre-teens-and-teenagers-smart-gaming.pdf",
+    "id": "5tUinsV15VeOmRU"
+  }
+}

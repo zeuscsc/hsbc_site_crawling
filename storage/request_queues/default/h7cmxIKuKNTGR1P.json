@@ -1,0 +1,23 @@
+{
+  "id": "h7cmxIKuKNTGR1P",
+  "unique_key": "https://retailbank.hsbc.com.hk/promo/personal-instalment-loan/en/home",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:08:12.964232+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/promo/personal-instalment-loan/en/home/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/loans/products/personal-instalment/",
+    "handled_at": "2025-02-20 11:08:12.964232+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/promo/personal-instalment-loan/en/home",
+    "id": "h7cmxIKuKNTGR1P"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "wu4FhilMmHIUEvR",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/transfer-payments/products/international/global-transfers",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:30:31.962474+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/transfer-payments/products/international/global-transfers/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/transfer-payments/products/international/global-transfers/",
+    "handled_at": "2025-02-20 12:30:31.962474+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/transfer-payments/products/international/global-transfers",
+    "id": "wu4FhilMmHIUEvR"
+  }
+}

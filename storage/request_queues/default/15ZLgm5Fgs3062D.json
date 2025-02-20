@@ -1,0 +1,24 @@
+{
+  "id": "15ZLgm5Fgs3062D",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/community-banking/minority-group/summary-tariff-nepali.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:33.738353+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/community-banking/minority-group/Summary-Tariff-Nepali.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:33.738353+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/community-banking/minority-group/summary-tariff-nepali.pdf",
+    "id": "15ZLgm5Fgs3062D"
+  }
+}

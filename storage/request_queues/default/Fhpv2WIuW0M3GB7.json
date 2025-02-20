@@ -1,0 +1,24 @@
+{
+  "id": "Fhpv2WIuW0M3GB7",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/mpf/pb_wmfs.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:04:10.483057+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/mpf/pb_wmfs.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/mpf/pb_wmfs.pdf",
+    "handled_at": "2025-02-20 12:04:10.483057+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/mpf/pb_wmfs.pdf",
+    "id": "Fhpv2WIuW0M3GB7"
+  }
+}

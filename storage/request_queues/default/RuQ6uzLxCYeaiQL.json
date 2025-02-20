@@ -1,0 +1,24 @@
+{
+  "id": "RuQ6uzLxCYeaiQL",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/fees-and-charges.html?component=vtab&value=overdrafts",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:05:06.319548+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/personal/fees-and-charges.html?component=vtab&value=Overdrafts",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/fees/",
+    "handled_at": "2025-02-20 12:05:06.319548+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/fees-and-charges.html?component=vtab&value=overdrafts",
+    "id": "RuQ6uzLxCYeaiQL"
+  }
+}

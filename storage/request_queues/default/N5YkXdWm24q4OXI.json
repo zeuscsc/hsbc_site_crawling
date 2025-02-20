@@ -1,0 +1,24 @@
+{
+  "id": "N5YkXdWm24q4OXI",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/red-hot-overseas-spending-rewards",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:37:08.856805+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/red-hot-overseas-spending-rewards/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:37:08.856805+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/red-hot-overseas-spending-rewards",
+    "id": "N5YkXdWm24q4OXI"
+  }
+}

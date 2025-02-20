@@ -1,0 +1,24 @@
+{
+  "id": "DslH2EKpiP95OHx",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/broking/crs/crs-glossary.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:44:26.102119+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/broking/crs/crs-glossary.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 5
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:44:26.102119+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/broking/crs/crs-glossary.pdf",
+    "id": "DslH2EKpiP95OHx"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "uL0M1BRv5CRWs8J",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/booklets/2022-jun-education.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:07.347590+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/booklets/2022-jun-education.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:07.347590+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/booklets/2022-jun-education.pdf",
+    "id": "uL0M1BRv5CRWs8J"
+  }
+}

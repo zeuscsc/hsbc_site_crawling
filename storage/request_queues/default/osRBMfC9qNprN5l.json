@@ -1,0 +1,24 @@
+{
+  "id": "osRBMfC9qNprN5l",
+  "unique_key": "https://www.hsbc.com.hk/help/bereavement/glossary",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:22:43.065775+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/help/bereavement/glossary/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/help/bereavement/glossary/",
+    "handled_at": "2025-02-20 11:22:43.065775+00:00",
+    "unique_key": "https://www.hsbc.com.hk/help/bereavement/glossary",
+    "id": "osRBMfC9qNprN5l"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "aHGHWd3jyfqpyrV",
+  "unique_key": "https://www.hsbc.com.hk/investments/products/foreign-exchange/currency-rate/historical?y2n5q29kzt1bvuq=",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:50:03.224484+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/investments/products/foreign-exchange/currency-rate/historical/?Y2N5Q29kZT1BVUQ=",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/investments/products/foreign-exchange/currency-rate/historical/?Y2N5Q29kZT1BVUQ=",
+    "handled_at": "2025-02-20 11:50:03.224484+00:00",
+    "unique_key": "https://www.hsbc.com.hk/investments/products/foreign-exchange/currency-rate/historical?y2n5q29kzt1bvuq=",
+    "id": "aHGHWd3jyfqpyrV"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "l1FJ7vyZSJf9tCW",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/market-outlook/global-event/special-coverage-chinese-equities-to-overweight-sc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:40:40.580767+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/market-outlook/global-event/special-coverage-chinese-equities-to-overweight-sc.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:40:40.580767+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/market-outlook/global-event/special-coverage-chinese-equities-to-overweight-sc.pdf",
+    "id": "l1FJ7vyZSJf9tCW"
+  }
+}

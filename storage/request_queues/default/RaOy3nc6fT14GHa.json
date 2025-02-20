@@ -1,0 +1,24 @@
+{
+  "id": "RaOy3nc6fT14GHa",
+  "unique_key": "https://www.hsbc.com.hk/en-hk/forms/rewardcash-certificate-scheme-deregistration",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:52:13.516254+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/en-hk/forms/rewardcash-certificate-scheme-deregistration",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/en-hk/forms/rewardcash-certificate-scheme-deregistration/",
+    "handled_at": "2025-02-20 11:52:13.516254+00:00",
+    "unique_key": "https://www.hsbc.com.hk/en-hk/forms/rewardcash-certificate-scheme-deregistration",
+    "id": "RaOy3nc6fT14GHa"
+  }
+}

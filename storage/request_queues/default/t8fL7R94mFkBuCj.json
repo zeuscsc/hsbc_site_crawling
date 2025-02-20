@@ -1,0 +1,24 @@
+{
+  "id": "t8fL7R94mFkBuCj",
+  "unique_key": "https://www.hsbc.com.hk/wealth/insights/learn-to-invest/meet-life-goals/protection/family-first",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:15:23.838206+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/wealth/insights/learn-to-invest/meet-life-goals/protection/family-first/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/wealth/insights/learn-to-invest/meet-life-goals/protection/family-first/",
+    "handled_at": "2025-02-20 12:15:23.838206+00:00",
+    "unique_key": "https://www.hsbc.com.hk/wealth/insights/learn-to-invest/meet-life-goals/protection/family-first",
+    "id": "t8fL7R94mFkBuCj"
+  }
+}

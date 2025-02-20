@@ -1,0 +1,24 @@
+{
+  "id": "FSjIXaHRqlAG5Uk",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/mortgages/products/home-related-loans",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:44:15.142917+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/mortgages/products/home-related-loans/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/mortgages/products/home-related-loans/",
+    "handled_at": "2025-02-20 11:44:15.142917+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/mortgages/products/home-related-loans",
+    "id": "FSjIXaHRqlAG5Uk"
+  }
+}

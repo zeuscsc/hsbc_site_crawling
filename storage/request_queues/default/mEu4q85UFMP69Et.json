@@ -1,0 +1,24 @@
+{
+  "id": "mEu4q85UFMP69Et",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/ways-to-bank/phone-banking.html",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:07:32.568414+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/personal/ways-to-bank/phone-banking.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/ways-to-bank/phone/",
+    "handled_at": "2025-02-20 12:07:32.568414+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/ways-to-bank/phone-banking.html",
+    "id": "mEu4q85UFMP69Et"
+  }
+}

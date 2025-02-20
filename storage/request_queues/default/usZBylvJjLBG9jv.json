@@ -1,0 +1,24 @@
+{
+  "id": "usZBylvJjLBG9jv",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/banking/greater-bay-area/wealth-connect",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:47:58.281542+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/banking/greater-bay-area/wealth-connect/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/banking/greater-bay-area/wealth-connect/",
+    "handled_at": "2025-02-20 11:47:58.281542+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/banking/greater-bay-area/wealth-connect",
+    "id": "usZBylvJjLBG9jv"
+  }
+}

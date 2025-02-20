@@ -1,0 +1,24 @@
+{
+  "id": "RTCyw0TO3yBGwzj",
+  "unique_key": "https://www.hsbc.com.hk/ways-to-bank/forms",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:01:56.412539+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/ways-to-bank/forms/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/ways-to-bank/forms/",
+    "handled_at": "2025-02-20 11:01:56.412539+00:00",
+    "unique_key": "https://www.hsbc.com.hk/ways-to-bank/forms",
+    "id": "RTCyw0TO3yBGwzj"
+  }
+}

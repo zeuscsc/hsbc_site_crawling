@@ -1,0 +1,24 @@
+{
+  "id": "mepFjz5I4pxUuC9",
+  "unique_key": "https://www.hsbc.com.hk/mobile/career-starters",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:40:07.130061+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/mobile/career-starters/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 5
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/mobile/career-starters/",
+    "handled_at": "2025-02-20 12:40:07.130061+00:00",
+    "unique_key": "https://www.hsbc.com.hk/mobile/career-starters",
+    "id": "mepFjz5I4pxUuC9"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "528C25D2ahGshdh",
+  "unique_key": "https://retailbank.hsbc.com.hk/en/mortgage-calculator/refinancing-top-up",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:41:31.438645+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/en/mortgage-calculator/refinancing-top-up",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/en/mortgage-calculator/refinancing-top-up",
+    "handled_at": "2025-02-20 11:41:31.438645+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/en/mortgage-calculator/refinancing-top-up",
+    "id": "528C25D2ahGshdh"
+  }
+}

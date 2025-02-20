@@ -1,0 +1,24 @@
+{
+  "id": "NL2mf68LycQaa5h",
+  "unique_key": "https://www.hsbc.com.hk/ways-to-bank/branch/express-banking/foreign-currency-atm",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:06:32.418043+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/ways-to-bank/branch/express-banking/foreign-currency-atm/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/ways-to-bank/branch/express-banking/foreign-currency-atm/",
+    "handled_at": "2025-02-20 11:06:32.418043+00:00",
+    "unique_key": "https://www.hsbc.com.hk/ways-to-bank/branch/express-banking/foreign-currency-atm",
+    "id": "NL2mf68LycQaa5h"
+  }
+}

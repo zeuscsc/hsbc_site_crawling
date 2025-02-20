@@ -1,0 +1,24 @@
+{
+  "id": "aRoOy5R3TzS6Mp5",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/investments/market-information/hk/deposit-rate",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:53:46.048770+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/investments/market-information/hk/deposit-rate/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/investments/market-information/hk/deposit-rate/",
+    "handled_at": "2025-02-20 11:53:46.048770+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/investments/market-information/hk/deposit-rate",
+    "id": "aRoOy5R3TzS6Mp5"
+  }
+}

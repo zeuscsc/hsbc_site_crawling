@@ -1,0 +1,24 @@
+{
+  "id": "CTE0z03fmJxd86Y",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/cash-instalment-plan/get-your-cash-instalment-plan-application-status-instantly.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:20:27.208952+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/cash-instalment-plan/get-your-cash-instalment-plan-application-status-instantly.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:20:27.208952+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/cash-instalment-plan/get-your-cash-instalment-plan-application-status-instantly.pdf",
+    "id": "CTE0z03fmJxd86Y"
+  }
+}

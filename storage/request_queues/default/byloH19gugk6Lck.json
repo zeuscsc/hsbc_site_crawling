@@ -1,0 +1,24 @@
+{
+  "id": "byloH19gugk6Lck",
+  "unique_key": "https://www.hsbc.com.hk/misc/insurance/fulfillment-ratio/endowment",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:28:18.537501+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/misc/insurance/fulfillment-ratio/endowment/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/misc/insurance/fulfillment-ratio/endowment/",
+    "handled_at": "2025-02-20 11:28:18.537501+00:00",
+    "unique_key": "https://www.hsbc.com.hk/misc/insurance/fulfillment-ratio/endowment",
+    "id": "byloH19gugk6Lck"
+  }
+}

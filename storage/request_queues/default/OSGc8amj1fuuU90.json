@@ -1,0 +1,24 @@
+{
+  "id": "OSGc8amj1fuuU90",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/personal/ways-to-bank/transfer-and-payments.html",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:16:45.135958+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/personal/ways-to-bank/transfer-and-payments.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/transfer-payments/",
+    "handled_at": "2025-02-20 12:16:45.135958+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/personal/ways-to-bank/transfer-and-payments.html",
+    "id": "OSGc8amj1fuuU90"
+  }
+}

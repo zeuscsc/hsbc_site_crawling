@@ -1,0 +1,24 @@
+{
+  "id": "SAjdDIs4pYnzk1A",
+  "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2020/october/insurance_college2",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:25:13.086840+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2020/october/insurance_college2/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2020/october/insurance_college2/",
+    "handled_at": "2025-02-20 12:25:13.086840+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2020/october/insurance_college2",
+    "id": "SAjdDIs4pYnzk1A"
+  }
+}

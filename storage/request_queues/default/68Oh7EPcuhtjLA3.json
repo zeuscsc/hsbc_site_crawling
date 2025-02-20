@@ -1,0 +1,24 @@
+{
+  "id": "68Oh7EPcuhtjLA3",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/insurance/products/life/mortgage-protection",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:49:01.890630+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/insurance/products/life/mortgage-protection/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/insurance/products/life/mortgage-protection/",
+    "handled_at": "2025-02-20 11:49:01.890630+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/insurance/products/life/mortgage-protection",
+    "id": "68Oh7EPcuhtjLA3"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "qLl01Zqt73sj6Xe",
+  "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2022/february/tax_saving_combo",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:45:34.751810+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2022/february/tax_saving_combo/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2022/february/tax_saving_combo/",
+    "handled_at": "2025-02-20 12:45:34.751810+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2022/february/tax_saving_combo",
+    "id": "qLl01Zqt73sj6Xe"
+  }
+}

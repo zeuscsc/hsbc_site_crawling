@@ -1,0 +1,24 @@
+{
+  "id": "ONXg0TBV0z3Y8QB",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/81121593/hsbc-mastercard-ins-top-up-offer-tnc_tc_1q25_final.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:01.550441+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/media/81121593/HSBC-Mastercard-INS-Top-up-Offer-TnC_TC_1Q25_Final.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:38:01.550441+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/81121593/hsbc-mastercard-ins-top-up-offer-tnc_tc_1q25_final.pdf",
+    "id": "ONXg0TBV0z3Y8QB"
+  }
+}

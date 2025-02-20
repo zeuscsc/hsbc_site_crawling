@@ -1,0 +1,24 @@
+{
+  "id": "j3v3kenxdadr7H5",
+  "unique_key": "https://www.hsbc.com.hk/transfer-payments/products/merchants/insurance",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:32:03.062050+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/transfer-payments/products/merchants/insurance/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/transfer-payments/products/merchants/insurance/",
+    "handled_at": "2025-02-20 11:32:03.062050+00:00",
+    "unique_key": "https://www.hsbc.com.hk/transfer-payments/products/merchants/insurance",
+    "id": "j3v3kenxdadr7H5"
+  }
+}

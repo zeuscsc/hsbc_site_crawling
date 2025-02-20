@@ -1,0 +1,24 @@
+{
+  "id": "9s0Z8w0bQytxNbR",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/sustainability/how-to-save-money-on-energy",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:30:32.336235+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/sustainability/how-to-save-money-on-energy/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/sustainability/how-to-save-money-on-energy/",
+    "handled_at": "2025-02-20 12:30:32.336235+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/sustainability/how-to-save-money-on-energy",
+    "id": "9s0Z8w0bQytxNbR"
+  }
+}

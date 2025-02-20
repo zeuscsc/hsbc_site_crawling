@@ -1,0 +1,24 @@
+{
+  "id": "s71QyBPAqn2mBCK",
+  "unique_key": "https://www.warrants.hsbc.com.hk/home/download/dji-cbbcs-factbook-en.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:20:34.264772+00:00",
+  "request": {
+    "url": "https://www.warrants.hsbc.com.hk/home/download/DJI-CBBCs-Factbook-en.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:20:34.264772+00:00",
+    "unique_key": "https://www.warrants.hsbc.com.hk/home/download/dji-cbbcs-factbook-en.pdf",
+    "id": "s71QyBPAqn2mBCK"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1bJWv0jlaFadrue",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/73351937/tc_sc_hsbc-2024-winter-manning.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:54.204085+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/media/73351937/TC_SC_HSBC-2024-Winter-Manning.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:54.204085+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/73351937/tc_sc_hsbc-2024-winter-manning.pdf",
+    "id": "1bJWv0jlaFadrue"
+  }
+}

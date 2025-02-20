@@ -1,0 +1,24 @@
+{
+  "id": "N2USl3Y00UM5Zzk",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/loans/consider-factors-before-apply",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:07:31.382613+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/loans/consider-factors-before-apply/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/loans/consider-factors-before-apply/",
+    "handled_at": "2025-02-20 12:07:31.382613+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/loans/consider-factors-before-apply",
+    "id": "N2USl3Y00UM5Zzk"
+  }
+}

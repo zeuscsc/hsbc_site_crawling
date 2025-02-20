@@ -1,0 +1,24 @@
+{
+  "id": "66gjBWFiA4j6zrD",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/visa-signature/emperor-cinemas",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:51:30.855643+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/visa-signature/emperor-cinemas/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/visa-signature/emperor-cinemas/",
+    "handled_at": "2025-02-20 11:51:30.855643+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/visa-signature/emperor-cinemas",
+    "id": "66gjBWFiA4j6zrD"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "s4eZjTFgB5NdpVm",
+  "unique_key": "https://investments4.personal-banking.hsbc.com.hk/stb?currentmarket=hk&page=portfolio",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:39:07.468246+00:00",
+  "request": {
+    "url": "https://investments4.personal-banking.hsbc.com.hk/stb/?currentMarket=HK&page=portfolio",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/en-hk/security/",
+    "handled_at": "2025-02-20 10:39:07.468246+00:00",
+    "unique_key": "https://investments4.personal-banking.hsbc.com.hk/stb?currentmarket=hk&page=portfolio",
+    "id": "s4eZjTFgB5NdpVm"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "yg8OqXWXlTMvSJc",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/market-outlook/china-in-focus/china-in-focus-feb-2025.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:34:37.444378+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/market-outlook/china-in-focus/china-in-focus-feb-2025.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:34:37.444378+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/market-outlook/china-in-focus/china-in-focus-feb-2025.pdf",
+    "id": "yg8OqXWXlTMvSJc"
+  }
+}

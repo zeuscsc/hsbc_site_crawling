@@ -1,0 +1,24 @@
+{
+  "id": "HioQKd8R8A2Hc2K",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/premier/offers/special-offers/winerist-pin-jiu-tuan-ji-jiu-zhuang-lu-xing-tuan-gao-da8zhe-you-hui-31-12-2026",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:27:03.442010+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/premier/offers/special-offers/winerist-pin-jiu-tuan-ji-jiu-zhuang-lu-xing-tuan-gao-da8zhe-you-hui-31-12-2026/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/premier/offers/special-offers/winerist-pin-jiu-tuan-ji-jiu-zhuang-lu-xing-tuan-gao-da8zhe-you-hui-31-12-2026/",
+    "handled_at": "2025-02-20 12:27:03.442010+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/premier/offers/special-offers/winerist-pin-jiu-tuan-ji-jiu-zhuang-lu-xing-tuan-gao-da8zhe-you-hui-31-12-2026",
+    "id": "HioQKd8R8A2Hc2K"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "avbHTIrkmVx1ubi",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/broking/investments-products/corporate-account-lp.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:34.240116+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/broking/investments-products/corporate-account-lp.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:34.240116+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/broking/investments-products/corporate-account-lp.pdf",
+    "id": "avbHTIrkmVx1ubi"
+  }
+}

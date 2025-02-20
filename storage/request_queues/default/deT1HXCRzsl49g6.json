@@ -1,0 +1,24 @@
+{
+  "id": "deT1HXCRzsl49g6",
+  "unique_key": "https://www.hsbc.com.hk/wealth/insights/learn-to-invest/meet-life-goals/retirement/leaving-a-legacy",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:15:23.780136+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/wealth/insights/learn-to-invest/meet-life-goals/retirement/leaving-a-legacy/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/wealth/insights/learn-to-invest/meet-life-goals/retirement/leaving-a-legacy/",
+    "handled_at": "2025-02-20 12:15:23.780136+00:00",
+    "unique_key": "https://www.hsbc.com.hk/wealth/insights/learn-to-invest/meet-life-goals/retirement/leaving-a-legacy",
+    "id": "deT1HXCRzsl49g6"
+  }
+}

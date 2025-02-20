@@ -1,0 +1,24 @@
+{
+  "id": "sOK2caGNYvLnyaw",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/wealth/insights/market-outlook/special-coverage",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:07:32.951720+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/wealth/insights/market-outlook/special-coverage/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/wealth/insights/",
+    "handled_at": "2025-02-20 12:07:32.951720+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/wealth/insights/market-outlook/special-coverage",
+    "id": "sOK2caGNYvLnyaw"
+  }
+}

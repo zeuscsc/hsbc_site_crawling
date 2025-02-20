@@ -1,0 +1,24 @@
+{
+  "id": "Aisxhvw6y0Cjatw",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/banking/gba/terms-and-conditions-for-northbound-services-rmb-savings-account-0629.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:43.174878+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/banking/gba/terms-and-conditions-for-northbound-services-rmb-savings-account-0629.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:43.174878+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/banking/gba/terms-and-conditions-for-northbound-services-rmb-savings-account-0629.pdf",
+    "id": "Aisxhvw6y0Cjatw"
+  }
+}

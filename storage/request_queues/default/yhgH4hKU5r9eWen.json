@@ -1,0 +1,24 @@
+{
+  "id": "yhgH4hKU5r9eWen",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/life/flourish-income-annuity/dementia-video-transcript.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:49.994607+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/life/flourish-income-annuity/dementia-video-transcript.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:49.994607+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/life/flourish-income-annuity/dementia-video-transcript.pdf",
+    "id": "yhgH4hKU5r9eWen"
+  }
+}

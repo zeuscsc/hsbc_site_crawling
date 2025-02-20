@@ -1,0 +1,24 @@
+{
+  "id": "naqeQXTjcjBPdZu",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/debit-cards/mastercard-debit-card/terms-and-conditions-jun24.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:16:44.388693+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/debit-cards/mastercard-debit-card/terms-and-conditions-jun24.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:16:44.388693+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/debit-cards/mastercard-debit-card/terms-and-conditions-jun24.pdf",
+    "id": "naqeQXTjcjBPdZu"
+  }
+}

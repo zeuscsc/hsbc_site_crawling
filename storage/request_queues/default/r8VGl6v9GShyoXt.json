@@ -1,0 +1,23 @@
+{
+  "id": "r8VGl6v9GShyoXt",
+  "unique_key": "https://www.hsbc.com.hk/ways-to-bank/phone",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:55:19.260431+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/ways-to-bank/phone/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/ways-to-bank/phone/",
+    "handled_at": "2025-02-20 10:55:19.260431+00:00",
+    "unique_key": "https://www.hsbc.com.hk/ways-to-bank/phone",
+    "id": "r8VGl6v9GShyoXt"
+  }
+}

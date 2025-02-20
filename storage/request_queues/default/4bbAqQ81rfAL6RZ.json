@@ -1,0 +1,23 @@
+{
+  "id": "4bbAqQ81rfAL6RZ",
+  "unique_key": "https://www.hsbc.com.hk/credit-cards/products/student-visa-gold",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:37:41.033675+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/credit-cards/products/student-visa-gold/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/credit-cards/products/student-visa-gold/",
+    "handled_at": "2025-02-20 10:37:41.033675+00:00",
+    "unique_key": "https://www.hsbc.com.hk/credit-cards/products/student-visa-gold",
+    "id": "4bbAqQ81rfAL6RZ"
+  }
+}

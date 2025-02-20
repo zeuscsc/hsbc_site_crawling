@@ -1,0 +1,24 @@
+{
+  "id": "vwOM8L1aSgMrDIh",
+  "unique_key": "https://www.hsbc.com.hk/help/faq/overdrafts",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:18:54.820210+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/help/faq/overdrafts/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/help/faq/overdrafts/",
+    "handled_at": "2025-02-20 11:18:54.820210+00:00",
+    "unique_key": "https://www.hsbc.com.hk/help/faq/overdrafts",
+    "id": "vwOM8L1aSgMrDIh"
+  }
+}

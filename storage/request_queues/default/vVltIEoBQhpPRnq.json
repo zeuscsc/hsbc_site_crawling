@@ -1,0 +1,23 @@
+{
+  "id": "vVltIEoBQhpPRnq",
+  "unique_key": "https://www.hsbc.com.hk/ways-to-bank/branch",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:37:39.585717+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/ways-to-bank/branch/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/ways-to-bank/branch/",
+    "handled_at": "2025-02-20 10:37:39.585717+00:00",
+    "unique_key": "https://www.hsbc.com.hk/ways-to-bank/branch",
+    "id": "vVltIEoBQhpPRnq"
+  }
+}

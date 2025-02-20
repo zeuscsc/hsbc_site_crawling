@@ -1,0 +1,24 @@
+{
+  "id": "EYRuC59MvWsxDi0",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/jade/wealth/investment-financing/list-of-eligible-unit-trusts-for-investment-financing.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:34:17.203893+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/jade/wealth/investment-financing/list-of-eligible-unit-trusts-for-investment-financing.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:34:17.203893+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/jade/wealth/investment-financing/list-of-eligible-unit-trusts-for-investment-financing.pdf",
+    "id": "EYRuC59MvWsxDi0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "RSjaXg4yEBPM2Ws",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/gpb_status_tnc_sc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:35:51.883401+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/GPB_Status_TnC_SC.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:35:51.883401+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/gpb_status_tnc_sc.pdf",
+    "id": "RSjaXg4yEBPM2Ws"
+  }
+}

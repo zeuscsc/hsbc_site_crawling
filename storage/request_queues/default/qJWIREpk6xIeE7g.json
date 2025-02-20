@@ -1,0 +1,24 @@
+{
+  "id": "qJWIREpk6xIeE7g",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/investments/stocks/china-a-shares.html?value=inv05",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:56:10.851247+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/personal/investments/stocks/china-a-shares.html?value=inv05",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/investments/products/stocks/china-a-shares/",
+    "handled_at": "2025-02-20 11:56:10.851247+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/investments/stocks/china-a-shares.html?value=inv05",
+    "id": "qJWIREpk6xIeE7g"
+  }
+}

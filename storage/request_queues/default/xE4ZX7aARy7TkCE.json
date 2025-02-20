@@ -1,0 +1,24 @@
+{
+  "id": "xE4ZX7aARy7TkCE",
+  "unique_key": "https://www.hsbc.com.hk/community-banking/minority-groups/no-fixed-address-service",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:41:12.380598+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/community-banking/minority-groups/no-fixed-address-service/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/community-banking/minority-groups/no-fixed-address-service/",
+    "handled_at": "2025-02-20 11:41:12.380598+00:00",
+    "unique_key": "https://www.hsbc.com.hk/community-banking/minority-groups/no-fixed-address-service",
+    "id": "xE4ZX7aARy7TkCE"
+  }
+}

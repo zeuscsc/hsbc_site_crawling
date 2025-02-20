@@ -1,0 +1,24 @@
+{
+  "id": "wHDuaZb1d7l8GK6",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/51394489/tc_sc_2023-mega-rewardcash-conversion-offer_travel.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:44:31.875578+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/media/51394489/TC_SC_2023-Mega-RewardCash-Conversion-Offer_Travel.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:44:31.875578+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/51394489/tc_sc_2023-mega-rewardcash-conversion-offer_travel.pdf",
+    "id": "wHDuaZb1d7l8GK6"
+  }
+}

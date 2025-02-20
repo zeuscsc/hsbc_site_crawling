@@ -1,0 +1,24 @@
+{
+  "id": "YbVOU6LT3a0q3Ag",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/mobile/career-starters/how-to-build-your-investment-portfoli",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:45:41.009095+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/mobile/career-starters/how-to-build-your-investment-portfoli/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 6
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/mobile/career-starters/how-to-build-your-investment-portfoli/",
+    "handled_at": "2025-02-20 12:45:41.009095+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/mobile/career-starters/how-to-build-your-investment-portfoli",
+    "id": "YbVOU6LT3a0q3Ag"
+  }
+}

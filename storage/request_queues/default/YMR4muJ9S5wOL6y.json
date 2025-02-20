@@ -1,0 +1,24 @@
+{
+  "id": "YMR4muJ9S5wOL6y",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/orso/inci06.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:43.707916+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/orso/INCI06.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:38:43.707916+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/orso/inci06.pdf",
+    "id": "YMR4muJ9S5wOL6y"
+  }
+}

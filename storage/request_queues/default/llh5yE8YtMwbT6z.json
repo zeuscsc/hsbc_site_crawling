@@ -1,0 +1,24 @@
+{
+  "id": "llh5yE8YtMwbT6z",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/booklets/2023-mar-legacy.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:08.432751+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/booklets/2023-mar-legacy.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:08.432751+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/booklets/2023-mar-legacy.pdf",
+    "id": "llh5yE8YtMwbT6z"
+  }
+}

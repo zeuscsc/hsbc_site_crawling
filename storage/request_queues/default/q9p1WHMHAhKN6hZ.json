@@ -1,0 +1,24 @@
+{
+  "id": "q9p1WHMHAhKN6hZ",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/visa-platinum-card-exclusive-offers.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:20:17.636066+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/visa-platinum-card-exclusive-offers.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:20:17.636066+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/visa-platinum-card-exclusive-offers.pdf",
+    "id": "q9p1WHMHAhKN6hZ"
+  }
+}

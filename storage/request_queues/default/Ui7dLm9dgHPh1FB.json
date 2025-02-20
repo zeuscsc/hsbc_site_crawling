@@ -1,0 +1,24 @@
+{
+  "id": "Ui7dLm9dgHPh1FB",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/hsbcsummersummit",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:10.867713+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/hsbcsummersummit/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:10.867713+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/hsbcsummersummit",
+    "id": "Ui7dLm9dgHPh1FB"
+  }
+}

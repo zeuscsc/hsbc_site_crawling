@@ -1,0 +1,24 @@
+{
+  "id": "YHYvee5dkmQAyU3",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/important-notices/2023-dec-notice-of-mobile-branch-service-suspension.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:36:26.625915+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/important-notices/2023-dec-notice-of-mobile-branch-service-suspension.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:36:26.625915+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/important-notices/2023-dec-notice-of-mobile-branch-service-suspension.pdf",
+    "id": "YHYvee5dkmQAyU3"
+  }
+}

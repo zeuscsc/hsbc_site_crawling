@@ -1,0 +1,24 @@
+{
+  "id": "oDfXH2rif3t3osN",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/broking/investments-products/individual-account-opening-form.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:35.641628+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/broking/investments-products/individual-account-opening-form.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:35.641628+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/broking/investments-products/individual-account-opening-form.pdf",
+    "id": "oDfXH2rif3t3osN"
+  }
+}

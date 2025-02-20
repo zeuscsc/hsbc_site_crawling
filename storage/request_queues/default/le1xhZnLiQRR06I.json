@@ -1,0 +1,24 @@
+{
+  "id": "le1xhZnLiQRR06I",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/2024_10_pil_w10_online_tnc_cpa_1030_r1.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:20:49.281347+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/2024_10_PIL_W10_Online_TnC_CPA_1030_R1.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:20:49.281347+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/2024_10_pil_w10_online_tnc_cpa_1030_r1.pdf",
+    "id": "le1xhZnLiQRR06I"
+  }
+}

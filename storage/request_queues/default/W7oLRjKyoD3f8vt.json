@@ -1,0 +1,24 @@
+{
+  "id": "W7oLRjKyoD3f8vt",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/help/banking-made-easy",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:41:12.550257+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/help/banking-made-easy/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/help/banking-made-easy/chip-technology/",
+    "handled_at": "2025-02-20 11:41:12.550257+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/help/banking-made-easy",
+    "id": "W7oLRjKyoD3f8vt"
+  }
+}

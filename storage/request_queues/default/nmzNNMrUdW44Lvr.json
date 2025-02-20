@@ -1,0 +1,24 @@
+{
+  "id": "nmzNNMrUdW44Lvr",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/credit-cards/features/virtual-credit-card",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:57:14.135138+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/credit-cards/features/virtual-credit-card/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/credit-cards/features/virtual-credit-card/",
+    "handled_at": "2025-02-20 10:57:14.135138+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/credit-cards/features/virtual-credit-card",
+    "id": "nmzNNMrUdW44Lvr"
+  }
+}

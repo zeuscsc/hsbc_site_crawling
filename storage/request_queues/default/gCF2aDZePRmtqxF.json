@@ -1,0 +1,24 @@
+{
+  "id": "gCF2aDZePRmtqxF",
+  "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2024/january/multi_currency",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:45:56.536776+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2024/january/multi_currency/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2024/january/multi_currency/",
+    "handled_at": "2025-02-20 12:45:56.536776+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2024/january/multi_currency",
+    "id": "gCF2aDZePRmtqxF"
+  }
+}

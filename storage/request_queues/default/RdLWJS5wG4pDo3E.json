@@ -1,0 +1,24 @@
+{
+  "id": "RdLWJS5wG4pDo3E",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/rewards/mileage-programme/transfer.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:09.394164+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/rewards/mileage-programme/transfer.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:38:09.394164+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/rewards/mileage-programme/transfer.pdf",
+    "id": "RdLWJS5wG4pDo3E"
+  }
+}

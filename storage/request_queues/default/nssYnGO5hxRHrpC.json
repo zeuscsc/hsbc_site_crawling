@@ -1,0 +1,24 @@
+{
+  "id": "nssYnGO5hxRHrpC",
+  "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2024/june/critical_illness_videos",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:51:26.420743+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2024/june/critical_illness_videos/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2024/june/critical_illness_videos/",
+    "handled_at": "2025-02-20 11:51:26.420743+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2024/june/critical_illness_videos",
+    "id": "nssYnGO5hxRHrpC"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ctZ1Rzm0U8Kkapb",
+  "unique_key": "https://www.hsbc.com.hk/misc/insurance/fulfillment-ratio/whole-life",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:28:11.081080+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/misc/insurance/fulfillment-ratio/whole-life/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/misc/insurance/fulfillment-ratio/whole-life/",
+    "handled_at": "2025-02-20 11:28:11.081080+00:00",
+    "unique_key": "https://www.hsbc.com.hk/misc/insurance/fulfillment-ratio/whole-life",
+    "id": "ctZ1Rzm0U8Kkapb"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "YnxzFHfXA1H41Yy",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth/insights/fx-insights/fx-viewpoint/flash-2024-12-23",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:35:14.625712+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/wealth/insights/fx-insights/fx-viewpoint/flash-2024-12-23/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/wealth/insights/fx-insights/fx-viewpoint/flash-2024-12-23/",
+    "handled_at": "2025-02-20 12:35:14.625712+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth/insights/fx-insights/fx-viewpoint/flash-2024-12-23",
+    "id": "YnxzFHfXA1H41Yy"
+  }
+}

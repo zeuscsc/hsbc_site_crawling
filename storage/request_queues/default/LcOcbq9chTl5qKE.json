@@ -1,0 +1,23 @@
+{
+  "id": "LcOcbq9chTl5qKE",
+  "unique_key": "https://www.hsbc.com.hk/premier-elite",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:35:54.952414+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/premier-elite/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/premier-elite/",
+    "handled_at": "2025-02-20 10:35:54.952414+00:00",
+    "unique_key": "https://www.hsbc.com.hk/premier-elite",
+    "id": "LcOcbq9chTl5qKE"
+  }
+}

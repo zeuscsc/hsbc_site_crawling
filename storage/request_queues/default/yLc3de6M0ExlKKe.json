@@ -1,0 +1,24 @@
+{
+  "id": "yLc3de6M0ExlKKe",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/legal-information.html?component=vtab&value=importantnotices",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:41:12.468850+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/personal/legal-information.html?component=vtab&value=ImportantNotices",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/legal/maintenance-schedule/",
+    "handled_at": "2025-02-20 11:41:12.468850+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/legal-information.html?component=vtab&value=importantnotices",
+    "id": "yLc3de6M0ExlKKe"
+  }
+}

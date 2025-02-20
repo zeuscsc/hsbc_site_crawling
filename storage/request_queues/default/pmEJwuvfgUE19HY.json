@@ -1,0 +1,24 @@
+{
+  "id": "pmEJwuvfgUE19HY",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/investments/products/foreign-exchange/24-hour-service",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:31:32.949514+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/investments/products/foreign-exchange/24-hour-service/#order",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/investments/products/foreign-exchange/#order",
+    "handled_at": "2025-02-20 12:31:32.949514+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/investments/products/foreign-exchange/24-hour-service",
+    "id": "pmEJwuvfgUE19HY"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "L0kB3NHH9xDHLuQ",
+  "unique_key": "https://www.hsbc.com.hk/credit-cards/products/payment-services/samsung-pay",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:58:27.791693+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/credit-cards/products/payment-services/samsung-pay/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/credit-cards/products/payment-services/samsung-pay/",
+    "handled_at": "2025-02-20 10:58:27.791693+00:00",
+    "unique_key": "https://www.hsbc.com.hk/credit-cards/products/payment-services/samsung-pay",
+    "id": "L0kB3NHH9xDHLuQ"
+  }
+}

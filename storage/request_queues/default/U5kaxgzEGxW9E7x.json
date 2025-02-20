@@ -1,0 +1,24 @@
+{
+  "id": "U5kaxgzEGxW9E7x",
+  "unique_key": "https://investments3.personal-banking.hsbc.com.hk/public/utb/en-gb/market",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:06:28.833582+00:00",
+  "request": {
+    "url": "https://investments3.personal-banking.hsbc.com.hk/public/utb/en-gb/market",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://investments3.personal-banking.hsbc.com.hk/public/utb/en-gb/market",
+    "handled_at": "2025-02-20 11:06:28.833582+00:00",
+    "unique_key": "https://investments3.personal-banking.hsbc.com.hk/public/utb/en-gb/market",
+    "id": "U5kaxgzEGxW9E7x"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "IuohG5avntAdAKN",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/hsbc_travel_guru_terms_tc_noa.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:54.967287+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/HSBC_Travel_Guru_Terms_TC_NOA.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:38:54.967287+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/hsbc_travel_guru_terms_tc_noa.pdf",
+    "id": "IuohG5avntAdAKN"
+  }
+}

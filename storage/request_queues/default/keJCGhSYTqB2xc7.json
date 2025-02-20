@@ -1,0 +1,24 @@
+{
+  "id": "keJCGhSYTqB2xc7",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/transfer-payments/products/merchants/charity",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:15:49.340404+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/transfer-payments/products/merchants/charity/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/transfer-payments/products/merchants/charity/",
+    "handled_at": "2025-02-20 12:15:49.340404+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/transfer-payments/products/merchants/charity",
+    "id": "keJCGhSYTqB2xc7"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kFQCljGNQtXYIql",
+  "unique_key": "https://www.hsbc.com.hk/wealth/insights/asset-class-views/investment-weekly",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:00.843355+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/wealth/insights/asset-class-views/investment-weekly/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 5
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/wealth/insights/",
+    "handled_at": "2025-02-20 12:43:00.843355+00:00",
+    "unique_key": "https://www.hsbc.com.hk/wealth/insights/asset-class-views/investment-weekly",
+    "id": "kFQCljGNQtXYIql"
+  }
+}

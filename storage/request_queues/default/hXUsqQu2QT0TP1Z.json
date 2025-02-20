@@ -1,0 +1,24 @@
+{
+  "id": "hXUsqQu2QT0TP1Z",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/global-private-banking/medical-concierge/hsbc-gpb-cvc-terms-and-conditions.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:22.159565+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/global-private-banking/medical-concierge/hsbc-gpb-cvc-terms-and-conditions.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:22.159565+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/global-private-banking/medical-concierge/hsbc-gpb-cvc-terms-and-conditions.pdf",
+    "id": "hXUsqQu2QT0TP1Z"
+  }
+}

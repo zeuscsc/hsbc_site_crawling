@@ -1,0 +1,24 @@
+{
+  "id": "42dE0zkqQjZq8lR",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/medical/vhis/flexi/2023-feb-policy-provision-silver-deductible-hkd100000.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:04.210489+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/medical/vhis/flexi/2023-feb-policy-provision-silver-deductible-hkd100000.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:04.210489+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/medical/vhis/flexi/2023-feb-policy-provision-silver-deductible-hkd100000.pdf",
+    "id": "42dE0zkqQjZq8lR"
+  }
+}

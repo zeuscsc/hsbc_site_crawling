@@ -1,0 +1,24 @@
+{
+  "id": "EjPgq7RS2roi0mk",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/transfer-payments/products/recipients/securities",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:17:44.988964+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/transfer-payments/products/recipients/securities/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/transfer-payments/products/recipients/securities/",
+    "handled_at": "2025-02-20 12:17:44.988964+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/transfer-payments/products/recipients/securities",
+    "id": "EjPgq7RS2roi0mk"
+  }
+}

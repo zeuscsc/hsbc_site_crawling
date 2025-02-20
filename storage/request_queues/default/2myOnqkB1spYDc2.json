@@ -1,0 +1,24 @@
+{
+  "id": "2myOnqkB1spYDc2",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/premier/offers/special-offers/agoda-yu-ding-jiu-dian-fang-jian-di-zhi86zhe-ji-ke-xiang75zhe-kuai-shan-jiu-dian-you-hui-31-08-2025",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:27:02.957323+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/premier/offers/special-offers/agoda-yu-ding-jiu-dian-fang-jian-di-zhi86zhe-ji-ke-xiang75zhe-kuai-shan-jiu-dian-you-hui-31-08-2025/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/premier/offers/special-offers/agoda-yu-ding-jiu-dian-fang-jian-di-zhi86zhe-ji-ke-xiang75zhe-kuai-shan-jiu-dian-you-hui-31-08-2025/",
+    "handled_at": "2025-02-20 12:27:02.957323+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/premier/offers/special-offers/agoda-yu-ding-jiu-dian-fang-jian-di-zhi86zhe-ji-ke-xiang75zhe-kuai-shan-jiu-dian-you-hui-31-08-2025",
+    "id": "2myOnqkB1spYDc2"
+  }
+}

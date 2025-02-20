@@ -1,0 +1,24 @@
+{
+  "id": "OVPQX61CWCr9fQS",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/tuition-fee-payment-tcs1.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:20:19.686493+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/tuition-fee-payment-tcs1.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:20:19.686493+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/tuition-fee-payment-tcs1.pdf",
+    "id": "OVPQX61CWCr9fQS"
+  }
+}

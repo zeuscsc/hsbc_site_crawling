@@ -1,0 +1,24 @@
+{
+  "id": "bht6ZczFdpFV7Zx",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/credit-cards/features/merchant-instalment",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:22:43.166475+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/credit-cards/features/merchant-instalment/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/credit-cards/use-your-card/merchant-instalment/",
+    "handled_at": "2025-02-20 11:22:43.166475+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/credit-cards/features/merchant-instalment",
+    "id": "bht6ZczFdpFV7Zx"
+  }
+}

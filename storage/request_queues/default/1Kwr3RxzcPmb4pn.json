@@ -1,0 +1,24 @@
+{
+  "id": "1Kwr3RxzcPmb4pn",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/everymile/everymile-everyday-spend.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:57.057920+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/everymile/everymile-everyday-spend.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:38:57.057920+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/everymile/everymile-everyday-spend.pdf",
+    "id": "1Kwr3RxzcPmb4pn"
+  }
+}

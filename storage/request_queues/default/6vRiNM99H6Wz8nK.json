@@ -1,0 +1,24 @@
+{
+  "id": "6vRiNM99H6Wz8nK",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/insurance/health-insurance/hospital-cash-insurance.html",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:04:06.121488+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/personal/insurance/health-insurance/hospital-cash-insurance.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/insurance/products/medical-and-critical-illness/hospital-cash/",
+    "handled_at": "2025-02-20 12:04:06.121488+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/insurance/health-insurance/hospital-cash-insurance.html",
+    "id": "6vRiNM99H6Wz8nK"
+  }
+}

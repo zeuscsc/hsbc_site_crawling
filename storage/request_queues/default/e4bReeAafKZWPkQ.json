@@ -1,0 +1,24 @@
+{
+  "id": "e4bReeAafKZWPkQ",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/credit-cards/cash-instalment-plan.html",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:04:06.002920+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/personal/credit-cards/cash-instalment-plan.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/credit-cards/use-your-card/cash-instalment-plan/",
+    "handled_at": "2025-02-20 12:04:06.002920+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/credit-cards/cash-instalment-plan.html",
+    "id": "e4bReeAafKZWPkQ"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "7sOvvoIrz2n2SYu",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/82374260/2025-feb-concert-acq-offer-tc_tc_final.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:02.562383+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/media/82374260/2025-Feb-Concert-ACQ-offer-TC_TC_final.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:38:02.562383+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/82374260/2025-feb-concert-acq-offer-tc_tc_final.pdf",
+    "id": "7sOvvoIrz2n2SYu"
+  }
+}

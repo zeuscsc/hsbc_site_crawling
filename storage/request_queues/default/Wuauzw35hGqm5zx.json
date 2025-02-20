@@ -1,0 +1,24 @@
+{
+  "id": "Wuauzw35hGqm5zx",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/ways-to-bank/bank-tariff/20241213-guide.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:20:41.773847+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/ways-to-bank/bank-tariff/20241213-guide.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/ways-to-bank/bank-tariff/20241213-guide.pdf",
+    "handled_at": "2025-02-20 12:20:41.773847+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/ways-to-bank/bank-tariff/20241213-guide.pdf",
+    "id": "Wuauzw35hGqm5zx"
+  }
+}

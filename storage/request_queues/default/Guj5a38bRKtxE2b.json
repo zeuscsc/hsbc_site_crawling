@@ -1,0 +1,24 @@
+{
+  "id": "Guj5a38bRKtxE2b",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/yro/terms-and-conditions",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:37.530170+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/sc/yro/terms-and-conditions/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:37.530170+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/yro/terms-and-conditions",
+    "id": "Guj5a38bRKtxE2b"
+  }
+}

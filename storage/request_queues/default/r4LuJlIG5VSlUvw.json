@@ -1,0 +1,24 @@
+{
+  "id": "r4LuJlIG5VSlUvw",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/orso/pooled-provident-plan/insc02-v01-1118-h.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:42:24.267455+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/orso/pooled-provident-plan/INSC02-v01-1118-H.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:42:24.267455+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/orso/pooled-provident-plan/insc02-v01-1118-h.pdf",
+    "id": "r4LuJlIG5VSlUvw"
+  }
+}

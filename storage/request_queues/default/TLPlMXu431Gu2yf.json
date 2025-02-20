@@ -1,0 +1,23 @@
+{
+  "id": "TLPlMXu431Gu2yf",
+  "unique_key": "https://www.hsbc.com.hk/wealth-management/retirement",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:39:41.527140+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/wealth-management/retirement/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/wealth-management/retirement/",
+    "handled_at": "2025-02-20 10:39:41.527140+00:00",
+    "unique_key": "https://www.hsbc.com.hk/wealth-management/retirement",
+    "id": "TLPlMXu431Gu2yf"
+  }
+}

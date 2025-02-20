@@ -1,0 +1,24 @@
+{
+  "id": "jiMptJ54sPXwL1R",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/medical/major-illness/ch-life-benefit.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:02.459266+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/medical/major-illness/ch-life-benefit.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:02.459266+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/medical/major-illness/ch-life-benefit.pdf",
+    "id": "jiMptJ54sPXwL1R"
+  }
+}

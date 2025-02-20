@@ -1,0 +1,24 @@
+{
+  "id": "HussNFrdZ5w6HF7",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/umbraco/editcontent.aspx?id=679436",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:20:28.427430+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/umbraco/editContent.aspx?id=679436#",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/umbraco/login.aspx?redir=%2fumbraco%2feditContent.aspx%3fid%3d679436",
+    "handled_at": "2025-02-20 12:20:28.427430+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/umbraco/editcontent.aspx?id=679436",
+    "id": "HussNFrdZ5w6HF7"
+  }
+}

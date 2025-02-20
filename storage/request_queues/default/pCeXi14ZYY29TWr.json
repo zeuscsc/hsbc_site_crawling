@@ -1,0 +1,24 @@
+{
+  "id": "pCeXi14ZYY29TWr",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/ibb_getinsuredonlinechallenge_jan2025_tc_sc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:45.291629+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/IBB_GetInsuredOnlineChallenge_Jan2025_TC_SC.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:45.291629+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/ibb_getinsuredonlinechallenge_jan2025_tc_sc.pdf",
+    "id": "pCeXi14ZYY29TWr"
+  }
+}

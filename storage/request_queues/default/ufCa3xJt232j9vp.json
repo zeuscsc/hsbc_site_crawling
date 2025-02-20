@@ -1,0 +1,24 @@
+{
+  "id": "ufCa3xJt232j9vp",
+  "unique_key": "https://www.hsbc.com.hk/transfer-payments/products/recipients/banking",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:37:47.044565+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/transfer-payments/products/recipients/banking/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/transfer-payments/products/recipients/banking/",
+    "handled_at": "2025-02-20 11:37:47.044565+00:00",
+    "unique_key": "https://www.hsbc.com.hk/transfer-payments/products/recipients/banking",
+    "id": "ufCa3xJt232j9vp"
+  }
+}

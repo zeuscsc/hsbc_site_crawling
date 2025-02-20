@@ -1,0 +1,24 @@
+{
+  "id": "T8BpmYVl7Nc50je",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/mpf/guidelines-for-employers/contributions",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:30:32.332909+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/mpf/guidelines-for-employers/contributions/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/mpf/guidelines-for-employers/contributions/",
+    "handled_at": "2025-02-20 12:30:32.332909+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/mpf/guidelines-for-employers/contributions",
+    "id": "T8BpmYVl7Nc50je"
+  }
+}

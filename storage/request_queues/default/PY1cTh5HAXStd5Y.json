@@ -1,0 +1,24 @@
+{
+  "id": "PY1cTh5HAXStd5Y",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/visa-signature/lai-sun-dining",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:20:03.137567+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/visa-signature/lai-sun-dining/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/visa-signature/lai-sun-dining/",
+    "handled_at": "2025-02-20 12:20:03.137567+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/visa-signature/lai-sun-dining",
+    "id": "PY1cTh5HAXStd5Y"
+  }
+}

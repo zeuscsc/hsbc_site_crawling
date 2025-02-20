@@ -1,0 +1,24 @@
+{
+  "id": "lVEiwODUE8lbdou",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/premier-card-exclusive-offer/travel",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:36:52.768284+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/premier-card-exclusive-offer/travel/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/premier-card-exclusive-offer/travel/",
+    "handled_at": "2025-02-20 12:36:52.768284+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/premier-card-exclusive-offer/travel",
+    "id": "lVEiwODUE8lbdou"
+  }
+}

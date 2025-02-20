@@ -1,0 +1,24 @@
+{
+  "id": "3puTnX6bQgzjCSQ",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/82277249/tc_tc_2025-q1-travel_meituandianping.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:51.915810+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/media/82277249/TC_TC_2025-Q1-Travel_MeituanDianping.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:51.915810+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/82277249/tc_tc_2025-q1-travel_meituandianping.pdf",
+    "id": "3puTnX6bQgzjCSQ"
+  }
+}

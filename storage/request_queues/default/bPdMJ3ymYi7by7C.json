@@ -1,0 +1,24 @@
+{
+  "id": "bPdMJ3ymYi7by7C",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/campaigns/prom189?cid=button_pws_tc_dcm39160",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:36:52.374249+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/campaigns/prom189/?cid=BUTTON_PWS_TC_DCM39160",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/campaigns/prom189/?cid=BUTTON_PWS_TC_DCM39160",
+    "handled_at": "2025-02-20 12:36:52.374249+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/campaigns/prom189?cid=button_pws_tc_dcm39160",
+    "id": "bPdMJ3ymYi7by7C"
+  }
+}

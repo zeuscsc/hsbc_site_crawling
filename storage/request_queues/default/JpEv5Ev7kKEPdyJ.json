@@ -1,0 +1,24 @@
+{
+  "id": "JpEv5Ev7kKEPdyJ",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/mortgages/property-valuation-tool.html",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:32:36.733935+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/personal/mortgages/property-valuation-tool.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/mortgages/tools/property-valuation/",
+    "handled_at": "2025-02-20 12:32:36.733935+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/mortgages/property-valuation-tool.html",
+    "id": "JpEv5Ev7kKEPdyJ"
+  }
+}

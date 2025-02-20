@@ -1,0 +1,24 @@
+{
+  "id": "OKbVglvMEoUdVP2",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth/insights/learn-to-invest/meet-life-goals/protection/financial-planning-and-quality-of-life",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:26:38.802696+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/wealth/insights/learn-to-invest/meet-life-goals/protection/financial-planning-and-quality-of-life/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/wealth/insights/learn-to-invest/meet-life-goals/protection/financial-planning-and-quality-of-life/",
+    "handled_at": "2025-02-20 11:26:38.802696+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth/insights/learn-to-invest/meet-life-goals/protection/financial-planning-and-quality-of-life",
+    "id": "OKbVglvMEoUdVP2"
+  }
+}

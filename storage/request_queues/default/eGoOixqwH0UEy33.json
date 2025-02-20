@@ -1,0 +1,24 @@
+{
+  "id": "eGoOixqwH0UEy33",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/broking/careers",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:33:00.752350+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/broking/careers/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/broking/careers/",
+    "handled_at": "2025-02-20 12:33:00.752350+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/broking/careers",
+    "id": "eGoOixqwH0UEy33"
+  }
+}

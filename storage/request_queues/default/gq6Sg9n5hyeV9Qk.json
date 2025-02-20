@@ -1,0 +1,24 @@
+{
+  "id": "gq6Sg9n5hyeV9Qk",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/investments/gold-token/important-information.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:38.024172+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/investments/gold-token/important-information.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:38.024172+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/investments/gold-token/important-information.pdf",
+    "id": "gq6Sg9n5hyeV9Qk"
+  }
+}

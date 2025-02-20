@@ -1,0 +1,24 @@
+{
+  "id": "vyjfRAkJDYi5JHu",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/form-centre.html?component=form_pi_select&value=pi-general-insurance",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:25:23.015717+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/personal/form-centre.html?component=form_PI_select&value=PI-General-Insurance",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/help/forms/",
+    "handled_at": "2025-02-20 12:25:23.015717+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/form-centre.html?component=form_pi_select&value=pi-general-insurance",
+    "id": "vyjfRAkJDYi5JHu"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "T4C7KRsbx6KFBQF",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/travel-guru/terms-and-conditions-spending",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:44:02.003681+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/travel-guru/terms-and-conditions-spending/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/travel-guru/terms-and-conditions-spending/",
+    "handled_at": "2025-02-20 12:44:02.003681+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/travel-guru/terms-and-conditions-spending",
+    "id": "T4C7KRsbx6KFBQF"
+  }
+}

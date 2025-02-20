@@ -1,0 +1,24 @@
+{
+  "id": "Ye22JAU4Y2BrtO1",
+  "unique_key": "https://www.hsbc.com.hk/insurance/manage-your-policy",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:51:00.857925+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/insurance/manage-your-policy/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/insurance/existing-customers/",
+    "handled_at": "2025-02-20 11:51:00.857925+00:00",
+    "unique_key": "https://www.hsbc.com.hk/insurance/manage-your-policy",
+    "id": "Ye22JAU4Y2BrtO1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ftP9H0N0Sx6Y7Wd",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/investments/account-opening",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:47:58.201267+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/investments/account-opening/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/investments/account-opening/",
+    "handled_at": "2025-02-20 11:47:58.201267+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/investments/account-opening",
+    "id": "ftP9H0N0Sx6Y7Wd"
+  }
+}

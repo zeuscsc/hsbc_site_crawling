@@ -1,0 +1,24 @@
+{
+  "id": "tzJTAh3mpWQpOaQ",
+  "unique_key": "https://www.hsbc.com.hk/online/local-transfer-your-accounts?initialaccess=true&pid=gsp_hk_en_24hrfx_mh",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:47:06.567498+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/online/local-transfer-your-accounts?pid=GSP_HK_EN_24HRFX_MH&initialAccess=true",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/en-hk/security/",
+    "handled_at": "2025-02-20 10:47:06.567498+00:00",
+    "unique_key": "https://www.hsbc.com.hk/online/local-transfer-your-accounts?initialaccess=true&pid=gsp_hk_en_24hrfx_mh",
+    "id": "tzJTAh3mpWQpOaQ"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jG26zeXKDr8E3V3",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/legal/important-notices",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:10:16.167932+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/legal/important-notices/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/important-notices/",
+    "handled_at": "2025-02-20 11:10:16.167932+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/legal/important-notices",
+    "id": "jG26zeXKDr8E3V3"
+  }
+}

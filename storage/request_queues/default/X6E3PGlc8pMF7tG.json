@@ -1,0 +1,24 @@
+{
+  "id": "X6E3PGlc8pMF7tG",
+  "unique_key": "https://www.hsbc.com.hk/insurance/products/life/paramount-global",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:50:37.269944+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/insurance/products/life/paramount-global/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/insurance/products/life/paramount-global/",
+    "handled_at": "2025-02-20 10:50:37.269944+00:00",
+    "unique_key": "https://www.hsbc.com.hk/insurance/products/life/paramount-global",
+    "id": "X6E3PGlc8pMF7tG"
+  }
+}

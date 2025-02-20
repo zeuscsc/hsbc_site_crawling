@@ -1,0 +1,23 @@
+{
+  "id": "gqcsq7j3BEb3BAJ",
+  "unique_key": "https://www.hsbc.com.hk/investments/learn-about-bonds",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:08:19.898452+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/investments/learn-about-bonds/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/investments/learn-about-bonds/",
+    "handled_at": "2025-02-20 11:08:19.898452+00:00",
+    "unique_key": "https://www.hsbc.com.hk/investments/learn-about-bonds",
+    "id": "gqcsq7j3BEb3BAJ"
+  }
+}

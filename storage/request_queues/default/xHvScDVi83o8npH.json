@@ -1,0 +1,24 @@
+{
+  "id": "xHvScDVi83o8npH",
+  "unique_key": "https://retailbank.hsbc.com.hk/media/9638/protection-level-2-scsvg.jpg",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:44:04.322267+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/media/9638/protection-level-2-scsvg.jpg",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/media/9638/protection-level-2-scsvg.jpg",
+    "handled_at": "2025-02-20 12:44:04.322267+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/media/9638/protection-level-2-scsvg.jpg",
+    "id": "xHvScDVi83o8npH"
+  }
+}

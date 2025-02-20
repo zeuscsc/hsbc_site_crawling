@@ -1,0 +1,24 @@
+{
+  "id": "jolF8tY27m5N5j7",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/reward-plus-mileage/feature/detail",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:39:06.371670+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/reward-plus-mileage/feature/detail",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/reward-plus-mileage/feature/detail",
+    "handled_at": "2025-02-20 12:39:06.371670+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/reward-plus-mileage/feature/detail",
+    "id": "jolF8tY27m5N5j7"
+  }
+}

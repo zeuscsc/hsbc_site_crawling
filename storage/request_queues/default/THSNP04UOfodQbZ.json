@@ -1,0 +1,23 @@
+{
+  "id": "THSNP04UOfodQbZ",
+  "unique_key": "https://www.hsbc.com.hk/investments/products/mutual-funds/flexinvest/offers",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:08:23.008812+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/investments/products/mutual-funds/flexinvest/offers/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/investments/products/mutual-funds/flexinvest/offers/",
+    "handled_at": "2025-02-20 11:08:23.008812+00:00",
+    "unique_key": "https://www.hsbc.com.hk/investments/products/mutual-funds/flexinvest/offers",
+    "id": "THSNP04UOfodQbZ"
+  }
+}

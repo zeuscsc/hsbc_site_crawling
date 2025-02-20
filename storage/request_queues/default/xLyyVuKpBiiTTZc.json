@@ -1,0 +1,24 @@
+{
+  "id": "xLyyVuKpBiiTTZc",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/life/swiftsave/product-brochure.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:24:51.567614+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/life/swiftsave/product-brochure.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:24:51.567614+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/life/swiftsave/product-brochure.pdf",
+    "id": "xLyyVuKpBiiTTZc"
+  }
+}

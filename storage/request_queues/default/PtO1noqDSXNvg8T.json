@@ -1,0 +1,24 @@
+{
+  "id": "PtO1noqDSXNvg8T",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/investments/mutual-funds/monthly-investment-plan/factsheet.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:36:51.483217+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/investments/mutual-funds/monthly-investment-plan/factsheet.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:36:51.483217+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/investments/mutual-funds/monthly-investment-plan/factsheet.pdf",
+    "id": "PtO1noqDSXNvg8T"
+  }
+}

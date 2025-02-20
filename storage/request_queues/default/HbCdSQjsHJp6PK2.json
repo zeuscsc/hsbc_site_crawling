@@ -1,0 +1,24 @@
+{
+  "id": "HbCdSQjsHJp6PK2",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/investments/articles/how-to-build-your-investment-portfolio",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:31:34.669916+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/investments/articles/how-to-build-your-investment-portfolio/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/investments/articles/how-to-build-your-investment-portfolio/",
+    "handled_at": "2025-02-20 12:31:34.669916+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/investments/articles/how-to-build-your-investment-portfolio",
+    "id": "HbCdSQjsHJp6PK2"
+  }
+}

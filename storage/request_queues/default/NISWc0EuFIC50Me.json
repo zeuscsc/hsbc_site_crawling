@@ -1,0 +1,24 @@
+{
+  "id": "NISWc0EuFIC50Me",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/premier-elite/medical-concierge/healthy-life-user-guide.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:25.004920+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/premier-elite/medical-concierge/healthy-life-user-guide.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:25.004920+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/premier-elite/medical-concierge/healthy-life-user-guide.pdf",
+    "id": "NISWc0EuFIC50Me"
+  }
+}

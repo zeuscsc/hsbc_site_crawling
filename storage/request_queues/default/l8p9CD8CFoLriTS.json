@@ -1,0 +1,24 @@
+{
+  "id": "l8p9CD8CFoLriTS",
+  "unique_key": "https://retailbank.hsbc.com.hk/ins/en/lifetalk/blog2/posts/2022/august/decoding_critical_illness_protection_plans",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:51:20.810912+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/ins/en/lifetalk/blog2/posts/2022/august/decoding_critical_illness_protection_plans/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/ins/en/lifetalk/blog2/posts/2022/august/decoding_critical_illness_protection_plans/",
+    "handled_at": "2025-02-20 11:51:20.810912+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/ins/en/lifetalk/blog2/posts/2022/august/decoding_critical_illness_protection_plans",
+    "id": "l8p9CD8CFoLriTS"
+  }
+}

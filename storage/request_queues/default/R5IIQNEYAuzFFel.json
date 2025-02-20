@@ -1,0 +1,24 @@
+{
+  "id": "R5IIQNEYAuzFFel",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/booklets/2020-sep-education.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:06.599734+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/booklets/2020-sep-education.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:06.599734+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/booklets/2020-sep-education.pdf",
+    "id": "R5IIQNEYAuzFFel"
+  }
+}

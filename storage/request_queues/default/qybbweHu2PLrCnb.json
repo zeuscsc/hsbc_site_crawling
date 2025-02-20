@@ -1,0 +1,24 @@
+{
+  "id": "qybbweHu2PLrCnb",
+  "unique_key": "https://retailbank.hsbc.com.hk/ins/en/lifetalk/blog2/posts/2024/march/oversea_education",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:07:20.007048+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/ins/en/lifetalk/blog2/posts/2024/march/oversea_education/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/ins/en/lifetalk/blog2/posts/2024/march/oversea_education/",
+    "handled_at": "2025-02-20 11:07:20.007048+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/ins/en/lifetalk/blog2/posts/2024/march/oversea_education",
+    "id": "qybbweHu2PLrCnb"
+  }
+}

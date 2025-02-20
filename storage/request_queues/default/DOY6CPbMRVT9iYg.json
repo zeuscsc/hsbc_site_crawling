@@ -1,0 +1,24 @@
+{
+  "id": "DOY6CPbMRVT9iYg",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/broking/investments/ipo",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:08:28.312537+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/broking/investments/ipo/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/broking/investments/ipo/",
+    "handled_at": "2025-02-20 12:08:28.312537+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/broking/investments/ipo",
+    "id": "DOY6CPbMRVT9iYg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "FnDJw0m1DwgBzML",
+  "unique_key": "https://www.hsbc.com.hk/configuration/reward-app",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:20:25.348191+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/configuration/reward-app/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/configuration/reward-app/",
+    "handled_at": "2025-02-20 12:20:25.348191+00:00",
+    "unique_key": "https://www.hsbc.com.hk/configuration/reward-app",
+    "id": "FnDJw0m1DwgBzML"
+  }
+}

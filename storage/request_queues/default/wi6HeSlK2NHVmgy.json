@@ -1,0 +1,24 @@
+{
+  "id": "wi6HeSlK2NHVmgy",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/medical/critical-illness-protection/policy-jun17.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:42:49.631431+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/medical/critical-illness-protection/policy-jun17.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:42:49.631431+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/medical/critical-illness-protection/policy-jun17.pdf",
+    "id": "wi6HeSlK2NHVmgy"
+  }
+}

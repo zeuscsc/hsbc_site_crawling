@@ -1,0 +1,24 @@
+{
+  "id": "TzV98TdPdrK6GJH",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/broking/help/privacy-security",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:09:05.775587+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/broking/help/privacy-security/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/broking/help/privacy-security/",
+    "handled_at": "2025-02-20 12:09:05.775587+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/broking/help/privacy-security",
+    "id": "TzV98TdPdrK6GJH"
+  }
+}

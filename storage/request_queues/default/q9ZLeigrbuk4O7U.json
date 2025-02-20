@@ -1,0 +1,24 @@
+{
+  "id": "q9ZLeigrbuk4O7U",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/wealth/insights/asset-class-views/investment-weekly/chinas-household-wealth-exposure-to-property",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:15:23.873209+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/wealth/insights/asset-class-views/investment-weekly/chinas-household-wealth-exposure-to-property/#top-of-content",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/wealth/insights/asset-class-views/investment-weekly/chinas-household-wealth-exposure-to-property/#top-of-content",
+    "handled_at": "2025-02-20 12:15:23.873209+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/wealth/insights/asset-class-views/investment-weekly/chinas-household-wealth-exposure-to-property",
+    "id": "q9ZLeigrbuk4O7U"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Oi7eGutKl43QT4W",
+  "unique_key": "https://www.hsbc.com.hk/campaigns/fps",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:36:11.208916+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/campaigns/fps/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/campaigns/fps/",
+    "handled_at": "2025-02-20 10:36:11.208916+00:00",
+    "unique_key": "https://www.hsbc.com.hk/campaigns/fps",
+    "id": "Oi7eGutKl43QT4W"
+  }
+}

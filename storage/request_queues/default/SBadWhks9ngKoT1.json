@@ -1,0 +1,23 @@
+{
+  "id": "SBadWhks9ngKoT1",
+  "unique_key": "https://retailbank.hsbc.com.hk/en/mortgage-calculator/affordability",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:37:58.804640+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/en/mortgage-calculator/affordability",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/en/mortgage-calculator/affordability",
+    "handled_at": "2025-02-20 10:37:58.804640+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/en/mortgage-calculator/affordability",
+    "id": "SBadWhks9ngKoT1"
+  }
+}

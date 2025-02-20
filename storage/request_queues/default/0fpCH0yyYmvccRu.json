@@ -1,0 +1,24 @@
+{
+  "id": "0fpCH0yyYmvccRu",
+  "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2019/december/investment",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:32.284087+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2019/december/investment/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2019/december/investment/",
+    "handled_at": "2025-02-20 12:38:32.284087+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2019/december/investment",
+    "id": "0fpCH0yyYmvccRu"
+  }
+}

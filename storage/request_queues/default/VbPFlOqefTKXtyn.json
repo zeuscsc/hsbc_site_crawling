@@ -1,0 +1,24 @@
+{
+  "id": "VbPFlOqefTKXtyn",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/wealth/pdf/fx-insights/daily-fx-focus/dfx-en-20250220.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:34:36.527522+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/wealth/pdf/fx-insights/daily-fx-focus/dfx-en-20250220.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:34:36.527522+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/wealth/pdf/fx-insights/daily-fx-focus/dfx-en-20250220.pdf",
+    "id": "VbPFlOqefTKXtyn"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "KDqkDhQHEXo3mO3",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/dining",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:39:15.041611+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/dining/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/dining/",
+    "handled_at": "2025-02-20 11:39:15.041611+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/dining",
+    "id": "KDqkDhQHEXo3mO3"
+  }
+}

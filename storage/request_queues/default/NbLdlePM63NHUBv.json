@@ -1,0 +1,24 @@
+{
+  "id": "NbLdlePM63NHUBv",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/choosing-insurance-plans-as-you-start-work-transcript.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:44:31.939235+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/choosing-insurance-plans-as-you-start-work-transcript.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:44:31.939235+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/choosing-insurance-plans-as-you-start-work-transcript.pdf",
+    "id": "NbLdlePM63NHUBv"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3WzY3PrDy7CEucP",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/esg-insights/why-esg-matters/brewed-awakening-the-bitter-future-for-beer-sc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:05.644345+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/esg-insights/why-esg-matters/brewed-awakening-the-bitter-future-for-beer-sc.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:05.644345+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/esg-insights/why-esg-matters/brewed-awakening-the-bitter-future-for-beer-sc.pdf",
+    "id": "3WzY3PrDy7CEucP"
+  }
+}

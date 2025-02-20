@@ -1,0 +1,24 @@
+{
+  "id": "vU8d8mR7PvyLz7B",
+  "unique_key": "https://www.hsbc.com.hk/personal/contact-us/branch-locator.html",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:58:52.967934+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/personal/contact-us/branch-locator.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/branch-finder/",
+    "handled_at": "2025-02-20 10:58:52.967934+00:00",
+    "unique_key": "https://www.hsbc.com.hk/personal/contact-us/branch-locator.html",
+    "id": "vU8d8mR7PvyLz7B"
+  }
+}

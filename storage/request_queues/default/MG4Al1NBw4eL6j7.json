@@ -1,0 +1,24 @@
+{
+  "id": "MG4Al1NBw4eL6j7",
+  "unique_key": "https://www.hsbc.com.hk/help/forms/key-facts-statement",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:02:52.678632+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/help/forms/key-facts-statement/#creditCards",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/help/forms/key-facts-statement/#creditCards",
+    "handled_at": "2025-02-20 11:02:52.678632+00:00",
+    "unique_key": "https://www.hsbc.com.hk/help/forms/key-facts-statement",
+    "id": "MG4Al1NBw4eL6j7"
+  }
+}

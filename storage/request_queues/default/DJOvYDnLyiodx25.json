@@ -1,0 +1,24 @@
+{
+  "id": "DJOvYDnLyiodx25",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/manage-your-policy/payment-options.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:06.457984+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/manage-your-policy/payment-options.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:38:06.457984+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/manage-your-policy/payment-options.pdf",
+    "id": "DJOvYDnLyiodx25"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "XeDp305YReLz77M",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/insurance/motor-insurance.html",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:05:06.439005+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/personal/insurance/motor-insurance.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/insurance/products/car/",
+    "handled_at": "2025-02-20 12:05:06.439005+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/personal/insurance/motor-insurance.html",
+    "id": "XeDp305YReLz77M"
+  }
+}

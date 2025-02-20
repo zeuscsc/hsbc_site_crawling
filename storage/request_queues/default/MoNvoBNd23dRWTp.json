@@ -1,0 +1,24 @@
+{
+  "id": "MoNvoBNd23dRWTp",
+  "unique_key": "https://www.hsbc.com.hk/credit-cards/tools/repayment-calculator",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:18:54.867399+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/credit-cards/tools/repayment-calculator/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/credit-cards/tools/repayment-calculator/",
+    "handled_at": "2025-02-20 11:18:54.867399+00:00",
+    "unique_key": "https://www.hsbc.com.hk/credit-cards/tools/repayment-calculator",
+    "id": "MoNvoBNd23dRWTp"
+  }
+}

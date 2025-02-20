@@ -1,0 +1,24 @@
+{
+  "id": "iN7xuZPPX3Reexs",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/learn-to-invest/meet-life-goals/quality-of-life-diversification-sc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:04.842129+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/learn-to-invest/meet-life-goals/quality-of-life-diversification-sc.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:04.842129+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/learn-to-invest/meet-life-goals/quality-of-life-diversification-sc.pdf",
+    "id": "iN7xuZPPX3Reexs"
+  }
+}

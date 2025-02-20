@@ -1,0 +1,24 @@
+{
+  "id": "7UVBOfkiqBggc3a",
+  "unique_key": "https://www.hsbc.com.hk/wealth/insights/market-outlook/special-coverage/deepseek-news-and-its-impact-on-the-ai-ecosystem",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:48:47.675727+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/wealth/insights/market-outlook/special-coverage/deepseek-news-and-its-impact-on-the-ai-ecosystem/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/wealth/insights/market-outlook/special-coverage/deepseek-news-and-its-impact-on-the-ai-ecosystem/",
+    "handled_at": "2025-02-20 10:48:47.675727+00:00",
+    "unique_key": "https://www.hsbc.com.hk/wealth/insights/market-outlook/special-coverage/deepseek-news-and-its-impact-on-the-ai-ecosystem",
+    "id": "7UVBOfkiqBggc3a"
+  }
+}

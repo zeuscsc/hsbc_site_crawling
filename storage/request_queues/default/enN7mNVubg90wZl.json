@@ -1,0 +1,24 @@
+{
+  "id": "enN7mNVubg90wZl",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/broking/digital-services/ccs-collection-statement.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:44.081596+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/broking/digital-services/ccs-collection-statement.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:44.081596+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/broking/digital-services/ccs-collection-statement.pdf",
+    "id": "enN7mNVubg90wZl"
+  }
+}

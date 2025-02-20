@@ -1,0 +1,24 @@
+{
+  "id": "TSgoXK7Vg0zU6ay",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/red-hot-dining-special/festive-dining",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:51:21.033846+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/red-hot-dining-special/festive-dining/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/red-hot-dining-special/festive-dining/hotel-offers/",
+    "handled_at": "2025-02-20 11:51:21.033846+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/red-hot-dining-special/festive-dining",
+    "id": "TSgoXK7Vg0zU6ay"
+  }
+}

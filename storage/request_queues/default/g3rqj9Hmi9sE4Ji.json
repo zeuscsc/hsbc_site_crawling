@@ -1,0 +1,24 @@
+{
+  "id": "g3rqj9Hmi9sE4Ji",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/mpf/tool/unit-prices",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:30:32.303523+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/mpf/tool/unit-prices/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/mpf/tool/unit-prices/",
+    "handled_at": "2025-02-20 12:30:32.303523+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/mpf/tool/unit-prices",
+    "id": "g3rqj9Hmi9sE4Ji"
+  }
+}

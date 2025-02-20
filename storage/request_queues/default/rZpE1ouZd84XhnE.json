@@ -1,0 +1,24 @@
+{
+  "id": "rZpE1ouZd84XhnE",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/learn-to-invest/meet-life-goals/the-power-of-portfolio-diversification.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:04.411893+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/learn-to-invest/meet-life-goals/the-power-of-portfolio-diversification.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:04.411893+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/learn-to-invest/meet-life-goals/the-power-of-portfolio-diversification.pdf",
+    "id": "rZpE1ouZd84XhnE"
+  }
+}

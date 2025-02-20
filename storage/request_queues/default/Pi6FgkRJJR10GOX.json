@@ -1,0 +1,24 @@
+{
+  "id": "Pi6FgkRJJR10GOX",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/asset-class-views/investment-monthly/investment-monthly-feb25-sc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:40:40.080714+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/asset-class-views/investment-monthly/investment-monthly-feb25-sc.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:40:40.080714+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/asset-class-views/investment-monthly/investment-monthly-feb25-sc.pdf",
+    "id": "Pi6FgkRJJR10GOX"
+  }
+}

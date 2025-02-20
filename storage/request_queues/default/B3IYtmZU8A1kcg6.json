@@ -1,0 +1,24 @@
+{
+  "id": "B3IYtmZU8A1kcg6",
+  "unique_key": "https://www.hsbc.com.hk/mpf/guidelines-for-employers/voluntary",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:02:02.157622+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/mpf/guidelines-for-employers/voluntary/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/mpf/guidelines-for-employers/voluntary/",
+    "handled_at": "2025-02-20 12:02:02.157622+00:00",
+    "unique_key": "https://www.hsbc.com.hk/mpf/guidelines-for-employers/voluntary",
+    "id": "B3IYtmZU8A1kcg6"
+  }
+}

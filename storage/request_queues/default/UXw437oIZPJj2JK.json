@@ -1,0 +1,24 @@
+{
+  "id": "UXw437oIZPJj2JK",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/life/userguide.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:00.248081+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/life/userguide.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:38:00.248081+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/life/userguide.pdf",
+    "id": "UXw437oIZPJj2JK"
+  }
+}

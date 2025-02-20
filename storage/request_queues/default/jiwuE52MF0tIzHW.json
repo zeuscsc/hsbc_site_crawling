@@ -1,0 +1,24 @@
+{
+  "id": "jiwuE52MF0tIzHW",
+  "unique_key": "https://www.hsbc.com.hk/transfer-payments/products/recipients/property",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:37:47.053459+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/transfer-payments/products/recipients/property/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/transfer-payments/products/recipients/property/",
+    "handled_at": "2025-02-20 11:37:47.053459+00:00",
+    "unique_key": "https://www.hsbc.com.hk/transfer-payments/products/recipients/property",
+    "id": "jiwuE52MF0tIzHW"
+  }
+}

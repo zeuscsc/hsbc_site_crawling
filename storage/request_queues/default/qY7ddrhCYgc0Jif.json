@@ -1,0 +1,24 @@
+{
+  "id": "qY7ddrhCYgc0Jif",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/mobile/financial-wellbeing/habits-for-financial-wellbeing",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:59:41.867703+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/mobile/financial-wellbeing/habits-for-financial-wellbeing/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/mobile/financial-wellbeing/habits-for-financial-wellbeing/",
+    "handled_at": "2025-02-20 11:59:41.867703+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/mobile/financial-wellbeing/habits-for-financial-wellbeing",
+    "id": "qY7ddrhCYgc0Jif"
+  }
+}

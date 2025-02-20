@@ -1,0 +1,24 @@
+{
+  "id": "dINV50e3PRsaqRt",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/insurance/products/life/jade-universal",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:29:31.991390+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/insurance/products/life/jade-universal/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/insurance/products/life/jade-universal/",
+    "handled_at": "2025-02-20 11:29:31.991390+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/insurance/products/life/jade-universal",
+    "id": "dINV50e3PRsaqRt"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sKOH5JR8vpORWs9",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/asset-class-views/investment-monthly/im-tc-202412.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:57.801734+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/asset-class-views/investment-monthly/im-tc-202412.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:57.801734+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/asset-class-views/investment-monthly/im-tc-202412.pdf",
+    "id": "sKOH5JR8vpORWs9"
+  }
+}

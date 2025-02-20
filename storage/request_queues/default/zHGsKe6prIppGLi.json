@@ -1,0 +1,24 @@
+{
+  "id": "zHGsKe6prIppGLi",
+  "unique_key": "https://www.hsbc.com.hk/orso/tool/pooled-provident-plan/unit-prices",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:45:41.066738+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/orso/tool/pooled-provident-plan/unit-prices/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/orso/tool/pooled-provident-plan/unit-prices/",
+    "handled_at": "2025-02-20 12:45:41.066738+00:00",
+    "unique_key": "https://www.hsbc.com.hk/orso/tool/pooled-provident-plan/unit-prices",
+    "id": "zHGsKe6prIppGLi"
+  }
+}

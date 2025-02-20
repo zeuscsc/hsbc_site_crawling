@@ -1,0 +1,24 @@
+{
+  "id": "AzcIa3BSj9FV9Bt",
+  "unique_key": "https://www.hsbc.com.hk/mpf/documents/self-employed",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:16:57.459532+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/mpf/documents/self-employed/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/mpf/documents/self-employed/",
+    "handled_at": "2025-02-20 11:16:57.459532+00:00",
+    "unique_key": "https://www.hsbc.com.hk/mpf/documents/self-employed",
+    "id": "AzcIa3BSj9FV9Bt"
+  }
+}

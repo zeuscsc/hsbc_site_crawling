@@ -1,0 +1,24 @@
+{
+  "id": "KGrllATOcJBCcMk",
+  "unique_key": "https://www.hsbc.com.hk/insurance/products/home/fire",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:29:30.464222+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/insurance/products/home/fire/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/insurance/products/home/fire/",
+    "handled_at": "2025-02-20 11:29:30.464222+00:00",
+    "unique_key": "https://www.hsbc.com.hk/insurance/products/home/fire",
+    "id": "KGrllATOcJBCcMk"
+  }
+}

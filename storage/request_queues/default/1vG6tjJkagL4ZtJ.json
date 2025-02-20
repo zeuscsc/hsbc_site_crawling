@@ -1,0 +1,24 @@
+{
+  "id": "1vG6tjJkagL4ZtJ",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/ebstnc_gen_tc_2025.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:36:01.736722+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/EBSTNC_GEN_TC_2025.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:36:01.736722+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/ebstnc_gen_tc_2025.pdf",
+    "id": "1vG6tjJkagL4ZtJ"
+  }
+}

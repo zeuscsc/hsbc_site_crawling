@@ -1,0 +1,24 @@
+{
+  "id": "BsfHhpCZxsZhHF4",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/help/faq/premier",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:33:53.860348+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/help/faq/premier/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/help/faq/premier/",
+    "handled_at": "2025-02-20 11:33:53.860348+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/help/faq/premier",
+    "id": "BsfHhpCZxsZhHF4"
+  }
+}

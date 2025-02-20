@@ -1,0 +1,24 @@
+{
+  "id": "WO0a1qwTehHAJL6",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/premier-elite/wealth/preferential-pricing",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:46:59.960799+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/premier-elite/wealth/preferential-pricing/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/premier-elite/wealth/preferential-pricing/",
+    "handled_at": "2025-02-20 11:46:59.960799+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/premier-elite/wealth/preferential-pricing",
+    "id": "WO0a1qwTehHAJL6"
+  }
+}

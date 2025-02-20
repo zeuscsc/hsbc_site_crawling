@@ -1,0 +1,24 @@
+{
+  "id": "7qzPSsn3dmJsaQI",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/misc/credit-card-fraud-alert",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:36:05.843569+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/misc/credit-card-fraud-alert/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/misc/credit-card-fraud-alert/",
+    "handled_at": "2025-02-20 11:36:05.843569+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/misc/credit-card-fraud-alert",
+    "id": "7qzPSsn3dmJsaQI"
+  }
+}

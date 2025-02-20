@@ -1,0 +1,23 @@
+{
+  "id": "3fR0wOYUObz0XCb",
+  "unique_key": "https://www.hsbc.com.hk/credit-cards/rewards/mileage-programme",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:08:23.765259+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/credit-cards/rewards/mileage-programme/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/credit-cards/rewards/mileage-programme/",
+    "handled_at": "2025-02-20 11:08:23.765259+00:00",
+    "unique_key": "https://www.hsbc.com.hk/credit-cards/rewards/mileage-programme",
+    "id": "3fR0wOYUObz0XCb"
+  }
+}

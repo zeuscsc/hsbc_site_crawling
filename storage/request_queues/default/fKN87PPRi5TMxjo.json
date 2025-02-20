@@ -1,0 +1,24 @@
+{
+  "id": "fKN87PPRi5TMxjo",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/reward-plus-off-us-app/feature/detail",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:39:06.522230+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/reward-plus-off-us-app/feature/detail/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/reward-plus-off-us-app/feature/detail/",
+    "handled_at": "2025-02-20 12:39:06.522230+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/reward-plus-off-us-app/feature/detail",
+    "id": "fKN87PPRi5TMxjo"
+  }
+}

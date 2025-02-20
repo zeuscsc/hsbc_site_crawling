@@ -1,0 +1,24 @@
+{
+  "id": "tkQvLjBftfqA0xc",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/wealth/insights/learn-to-invest/meet-life-goals/retirement/paving-your-way-to-quality-of-life",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:09:40.153356+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/wealth/insights/learn-to-invest/meet-life-goals/retirement/paving-your-way-to-quality-of-life/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/wealth/insights/learn-to-invest/meet-life-goals/retirement/paving-your-way-to-quality-of-life/",
+    "handled_at": "2025-02-20 12:09:40.153356+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/wealth/insights/learn-to-invest/meet-life-goals/retirement/paving-your-way-to-quality-of-life",
+    "id": "tkQvLjBftfqA0xc"
+  }
+}

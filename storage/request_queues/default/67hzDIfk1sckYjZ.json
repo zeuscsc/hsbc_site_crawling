@@ -1,0 +1,23 @@
+{
+  "id": "67hzDIfk1sckYjZ",
+  "unique_key": "https://dco-form-ac.hsbc.com.hk/?lng=en_hk",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:37:51.437364+00:00",
+  "request": {
+    "url": "https://dco-form-ac.hsbc.com.hk/?lng=en_HK",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://dco-form-ac.hsbc.com.hk/?lng=en_HK",
+    "handled_at": "2025-02-20 10:37:51.437364+00:00",
+    "unique_key": "https://dco-form-ac.hsbc.com.hk/?lng=en_hk",
+    "id": "67hzDIfk1sckYjZ"
+  }
+}

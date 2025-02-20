@@ -1,0 +1,24 @@
+{
+  "id": "CslFvHdwDO79gCN",
+  "unique_key": "https://www.hsbc.com.hk/overdrafts/products/advance-clean-credit",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:18:55.503310+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/overdrafts/products/advance-clean-credit/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/overdrafts/products/one-clean-credit/",
+    "handled_at": "2025-02-20 11:18:55.503310+00:00",
+    "unique_key": "https://www.hsbc.com.hk/overdrafts/products/advance-clean-credit",
+    "id": "CslFvHdwDO79gCN"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "JIVFKKYgYnf5xbJ",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/investments/transcript/currency-linked.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:36:48.543577+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/investments/transcript/currency-linked.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:36:48.543577+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/investments/transcript/currency-linked.pdf",
+    "id": "JIVFKKYgYnf5xbJ"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "g0FKMmAoHl8HljX",
+  "unique_key": "https://payme.hsbc.com.hk/assets/videos/transcript/collect-payments_en.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:35:49.863447+00:00",
+  "request": {
+    "url": "https://payme.hsbc.com.hk/assets/videos/transcript/collect-payments_EN.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://payme.hsbc.com.hk/en/personal",
+    "handled_at": "2025-02-20 12:35:49.863447+00:00",
+    "unique_key": "https://payme.hsbc.com.hk/assets/videos/transcript/collect-payments_en.pdf",
+    "id": "g0FKMmAoHl8HljX"
+  }
+}

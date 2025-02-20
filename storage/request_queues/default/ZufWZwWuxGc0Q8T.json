@@ -1,0 +1,24 @@
+{
+  "id": "ZufWZwWuxGc0Q8T",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/insurance/products/wealth-select/configuration/modals/acknowledgement-plp",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:24:47.266418+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/insurance/products/wealth-select/configuration/modals/acknowledgement-plp/#1",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/insurance/products/wealth-select/configuration/modals/acknowledgement-plp/#1",
+    "handled_at": "2025-02-20 12:24:47.266418+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/insurance/products/wealth-select/configuration/modals/acknowledgement-plp",
+    "id": "ZufWZwWuxGc0Q8T"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "spKSfwjKlyRlIDb",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/simplification-to-hsbc-credit-card-cardholder-agreement-and-amendment.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:36.714538+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/simplification-to-hsbc-credit-card-cardholder-agreement-and-amendment.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:36.714538+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/simplification-to-hsbc-credit-card-cardholder-agreement-and-amendment.pdf",
+    "id": "spKSfwjKlyRlIDb"
+  }
+}

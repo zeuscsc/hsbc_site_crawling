@@ -1,0 +1,24 @@
+{
+  "id": "2gO2zUwpki2a8tc",
+  "unique_key": "https://www.hsbc.com.hk/help/cybersecurity-and-fraud/mobile-security",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:58:27.777624+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/help/cybersecurity-and-fraud/mobile-security/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/help/cybersecurity-and-fraud/mobile-security/",
+    "handled_at": "2025-02-20 10:58:27.777624+00:00",
+    "unique_key": "https://www.hsbc.com.hk/help/cybersecurity-and-fraud/mobile-security",
+    "id": "2gO2zUwpki2a8tc"
+  }
+}

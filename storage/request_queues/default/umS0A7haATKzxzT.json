@@ -1,0 +1,24 @@
+{
+  "id": "umS0A7haATKzxzT",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/2025_visa_signature_card_special_reward_promotion_tnc_tc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:36:29.850713+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/2025_Visa_Signature_Card_Special_Reward_Promotion_TNC_TC.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:36:29.850713+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/2025_visa_signature_card_special_reward_promotion_tnc_tc.pdf",
+    "id": "umS0A7haATKzxzT"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Pj7ko5IUJ9FybTM",
+  "unique_key": "https://www.hsbc.com.hk/en-hk/misc/hyperlink-policy",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:02:19.618839+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/en-hk/misc/hyperlink-policy/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/en-hk/misc/hyperlink-policy/",
+    "handled_at": "2025-02-20 12:02:19.618839+00:00",
+    "unique_key": "https://www.hsbc.com.hk/en-hk/misc/hyperlink-policy",
+    "id": "Pj7ko5IUJ9FybTM"
+  }
+}

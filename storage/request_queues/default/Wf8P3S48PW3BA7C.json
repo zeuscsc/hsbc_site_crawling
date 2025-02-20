@@ -1,0 +1,24 @@
+{
+  "id": "Wf8P3S48PW3BA7C",
+  "unique_key": "https://www.hsbc.com.hk/help/bereavement/registering-the-death",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:20:54.410515+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/help/bereavement/registering-the-death/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/help/bereavement/registering-the-death/",
+    "handled_at": "2025-02-20 11:20:54.410515+00:00",
+    "unique_key": "https://www.hsbc.com.hk/help/bereavement/registering-the-death",
+    "id": "Wf8P3S48PW3BA7C"
+  }
+}

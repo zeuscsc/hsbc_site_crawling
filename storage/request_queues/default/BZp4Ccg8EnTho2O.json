@@ -1,0 +1,24 @@
+{
+  "id": "BZp4Ccg8EnTho2O",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/broking/investments/derivatives",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:08:28.794464+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/broking/investments/derivatives/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/broking/investments/derivatives/",
+    "handled_at": "2025-02-20 12:08:28.794464+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/broking/investments/derivatives",
+    "id": "BZp4Ccg8EnTho2O"
+  }
+}

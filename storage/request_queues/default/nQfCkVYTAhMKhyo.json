@@ -1,0 +1,24 @@
+{
+  "id": "nQfCkVYTAhMKhyo",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/mpf/inci.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:31:37.491988+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/mpf/inci.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:31:37.491988+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/mpf/inci.pdf",
+    "id": "nQfCkVYTAhMKhyo"
+  }
+}

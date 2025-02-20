@@ -1,0 +1,24 @@
+{
+  "id": "zFqWu9I3Fvz5eC5",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/en_tc_wealth_of_your_choice_bonus_badge.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:16:44.028066+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/EN_TC_Wealth_of_Your_Choice_Bonus_Badge.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:16:44.028066+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/vam/pdf/en_tc_wealth_of_your_choice_bonus_badge.pdf",
+    "id": "zFqWu9I3Fvz5eC5"
+  }
+}

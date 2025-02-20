@@ -1,0 +1,23 @@
+{
+  "id": "LqFpL94BzCxWJVf",
+  "unique_key": "https://www.hsbc.com.hk/credit-cards",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:33:46.638693+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/credit-cards/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/credit-cards/",
+    "handled_at": "2025-02-20 10:33:46.638693+00:00",
+    "unique_key": "https://www.hsbc.com.hk/credit-cards",
+    "id": "LqFpL94BzCxWJVf"
+  }
+}

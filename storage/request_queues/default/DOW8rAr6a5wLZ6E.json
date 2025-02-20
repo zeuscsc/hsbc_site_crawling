@@ -1,0 +1,24 @@
+{
+  "id": "DOW8rAr6a5wLZ6E",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/learn-to-invest/meet-life-goals/affluent-investor-snapshot-2024.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:04.375380+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/learn-to-invest/meet-life-goals/affluent-investor-snapshot-2024.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:04.375380+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/learn-to-invest/meet-life-goals/affluent-investor-snapshot-2024.pdf",
+    "id": "DOW8rAr6a5wLZ6E"
+  }
+}

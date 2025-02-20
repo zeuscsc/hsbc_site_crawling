@@ -1,0 +1,24 @@
+{
+  "id": "zqKO00HHbsjN8wi",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/en/rewards/red-hot-rewards-of-your-choice",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:56:39.686419+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/en/rewards/red-hot-rewards-of-your-choice/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/en/rewards/red-hot-rewards-of-your-choice/",
+    "handled_at": "2025-02-20 10:56:39.686419+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/en/rewards/red-hot-rewards-of-your-choice",
+    "id": "zqKO00HHbsjN8wi"
+  }
+}

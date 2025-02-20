@@ -1,0 +1,24 @@
+{
+  "id": "lcMVaEd6x1weukE",
+  "unique_key": "https://www.hsbc.com.hk/insurance/products/medical-and-critical-illness/preferred-care",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:49:50.002919+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/insurance/products/medical-and-critical-illness/preferred-care/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/insurance/products/medical-and-critical-illness/preferred-care/",
+    "handled_at": "2025-02-20 11:49:50.002919+00:00",
+    "unique_key": "https://www.hsbc.com.hk/insurance/products/medical-and-critical-illness/preferred-care",
+    "id": "lcMVaEd6x1weukE"
+  }
+}

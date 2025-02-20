@@ -1,0 +1,24 @@
+{
+  "id": "QA7lQ1bbth1rygj",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/mortgages/home-loan/high-advance/why-consider-applicable-before-7-jul-2023.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:40:48.071391+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/mortgages/home-loan/high-advance/why-consider-applicable-before-7-jul-2023.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:40:48.071391+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/mortgages/home-loan/high-advance/why-consider-applicable-before-7-jul-2023.pdf",
+    "id": "QA7lQ1bbth1rygj"
+  }
+}

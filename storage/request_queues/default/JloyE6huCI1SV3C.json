@@ -1,0 +1,24 @@
+{
+  "id": "JloyE6huCI1SV3C",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/legal/regulatory-disclosures/interim-report-15-en.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:29:29.295307+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/legal/regulatory-disclosures/interim-report-15-en.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:29:29.295307+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/legal/regulatory-disclosures/interim-report-15-en.pdf",
+    "id": "JloyE6huCI1SV3C"
+  }
+}

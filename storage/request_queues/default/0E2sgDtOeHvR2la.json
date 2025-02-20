@@ -1,0 +1,24 @@
+{
+  "id": "0E2sgDtOeHvR2la",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/power-of-attorney/basic-banking-account/product-brochure.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:47.754095+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/power-of-attorney/basic-banking-account/product-brochure.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:38:47.754095+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/power-of-attorney/basic-banking-account/product-brochure.pdf",
+    "id": "0E2sgDtOeHvR2la"
+  }
+}

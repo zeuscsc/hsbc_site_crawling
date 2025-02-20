@@ -1,0 +1,24 @@
+{
+  "id": "l6LauPQiT8guJWb",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth/insights/fx-insights/fx-viewpoint/cad-assume-the-best/*",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:13:24.100233+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/wealth/insights/fx-insights/fx-viewpoint/cad-assume-the-best/*",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/wealth/insights/fx-insights/fx-viewpoint/cad-assume-the-best/*/",
+    "handled_at": "2025-02-20 12:13:24.100233+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth/insights/fx-insights/fx-viewpoint/cad-assume-the-best/*",
+    "id": "l6LauPQiT8guJWb"
+  }
+}

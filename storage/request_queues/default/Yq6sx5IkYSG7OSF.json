@@ -1,0 +1,24 @@
+{
+  "id": "Yq6sx5IkYSG7OSF",
+  "unique_key": "https://www.hsbc.com.hk/ways-to-bank/live-chat",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:18:55.010690+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/ways-to-bank/live-chat/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/ways-to-bank/live-chat/",
+    "handled_at": "2025-02-20 11:18:55.010690+00:00",
+    "unique_key": "https://www.hsbc.com.hk/ways-to-bank/live-chat",
+    "id": "Yq6sx5IkYSG7OSF"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "m5F0XXUs7YvXwxN",
+  "unique_key": "https://www.hsbc.com.hk/help/faq?component=faq_select&value=rewards",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:26:41.289300+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/help/faq/?component=faq_select&value=Rewards",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/help/faq/?component=faq_select&value=Rewards",
+    "handled_at": "2025-02-20 12:26:41.289300+00:00",
+    "unique_key": "https://www.hsbc.com.hk/help/faq?component=faq_select&value=rewards",
+    "id": "m5F0XXUs7YvXwxN"
+  }
+}

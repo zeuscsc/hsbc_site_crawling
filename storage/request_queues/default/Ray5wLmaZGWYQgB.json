@@ -1,0 +1,23 @@
+{
+  "id": "Ray5wLmaZGWYQgB",
+  "unique_key": "https://dco-form-pil.hsbc.com.hk/?lng=en_hk",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:40:35.828620+00:00",
+  "request": {
+    "url": "https://dco-form-pil.hsbc.com.hk/?lng=en_HK",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 11:40:35.828620+00:00",
+    "unique_key": "https://dco-form-pil.hsbc.com.hk/?lng=en_hk",
+    "id": "Ray5wLmaZGWYQgB"
+  }
+}

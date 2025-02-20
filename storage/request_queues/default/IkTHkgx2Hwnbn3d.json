@@ -1,0 +1,24 @@
+{
+  "id": "IkTHkgx2Hwnbn3d",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/ways-to-bank/branch/mobile",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:54:49.956994+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/ways-to-bank/branch/mobile/#opening-hours",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/ways-to-bank/branch/mobile/#opening-hours",
+    "handled_at": "2025-02-20 11:54:49.956994+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/ways-to-bank/branch/mobile",
+    "id": "IkTHkgx2Hwnbn3d"
+  }
+}

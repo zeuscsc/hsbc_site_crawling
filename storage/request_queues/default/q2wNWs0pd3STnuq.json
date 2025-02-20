@@ -1,0 +1,24 @@
+{
+  "id": "q2wNWs0pd3STnuq",
+  "unique_key": "https://www.hsbc.com.hk/orso",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:52:41.583204+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/orso/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/orso/products/wayfoong-multi-funding-system/",
+    "handled_at": "2025-02-20 11:52:41.583204+00:00",
+    "unique_key": "https://www.hsbc.com.hk/orso",
+    "id": "q2wNWs0pd3STnuq"
+  }
+}

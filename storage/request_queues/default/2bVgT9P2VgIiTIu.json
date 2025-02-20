@@ -1,0 +1,24 @@
+{
+  "id": "2bVgT9P2VgIiTIu",
+  "unique_key": "https://www.hsbc.com.hk/transfer-payments/products/merchants/ipo",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:32:02.031212+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/transfer-payments/products/merchants/ipo/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/transfer-payments/products/merchants/ipo/",
+    "handled_at": "2025-02-20 11:32:02.031212+00:00",
+    "unique_key": "https://www.hsbc.com.hk/transfer-payments/products/merchants/ipo",
+    "id": "2bVgT9P2VgIiTIu"
+  }
+}

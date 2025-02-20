@@ -1,0 +1,24 @@
+{
+  "id": "nyFxkZ5H6HPP1yT",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/mortgages/borrowing-calculator",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:59:44.877452+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/mortgages/borrowing-calculator/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/zh-cn/mortgage-calculator/affordability",
+    "handled_at": "2025-02-20 11:59:44.877452+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/mortgages/borrowing-calculator",
+    "id": "nyFxkZ5H6HPP1yT"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "JCFw2Q8zTMsyVHa",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/tc/apply-for-a-credit-card/explore-credit-cards/visa-signature",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:07:31.976322+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/tc/apply-for-a-credit-card/explore-credit-cards/visa-signature/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/credit-cards/products/visa-signature/",
+    "handled_at": "2025-02-20 11:07:31.976322+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/tc/apply-for-a-credit-card/explore-credit-cards/visa-signature",
+    "id": "JCFw2Q8zTMsyVHa"
+  }
+}

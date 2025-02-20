@@ -1,0 +1,24 @@
+{
+  "id": "MO0fzCvJ4ICUMj6",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/life/jade-ultra-global-generations/2020-oct-product-brochure.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:01.222543+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/life/jade-ultra-global-generations/2020-oct-product-brochure.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:01.222543+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/insurance/life/jade-ultra-global-generations/2020-oct-product-brochure.pdf",
+    "id": "MO0fzCvJ4ICUMj6"
+  }
+}

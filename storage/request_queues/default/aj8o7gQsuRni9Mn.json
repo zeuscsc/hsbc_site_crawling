@@ -1,0 +1,24 @@
+{
+  "id": "aj8o7gQsuRni9Mn",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/legal/regulatory-disclosures-cn/finstat-supplementary-notes-15-cn.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:39:08.754852+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/legal/regulatory-disclosures-cn/finstat-supplementary-notes-15-cn.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:39:08.754852+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/legal/regulatory-disclosures-cn/finstat-supplementary-notes-15-cn.pdf",
+    "id": "aj8o7gQsuRni9Mn"
+  }
+}

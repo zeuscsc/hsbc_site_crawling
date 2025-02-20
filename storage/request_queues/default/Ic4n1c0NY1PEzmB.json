@@ -1,0 +1,24 @@
+{
+  "id": "Ic4n1c0NY1PEzmB",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/life/wholife-protection/policy-jul18.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:02.508247+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/life/wholife-protection/policy-jul18.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:02.508247+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/insurance/life/wholife-protection/policy-jul18.pdf",
+    "id": "Ic4n1c0NY1PEzmB"
+  }
+}

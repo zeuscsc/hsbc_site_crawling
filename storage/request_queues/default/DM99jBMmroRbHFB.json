@@ -1,0 +1,24 @@
+{
+  "id": "DM99jBMmroRbHFB",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/74470636/tc_tc_2025-china-macau-spending-reward.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:38:03.780005+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/media/74470636/TC_TC_2025-China-Macau-Spending-Reward.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:38:03.780005+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/74470636/tc_tc_2025-china-macau-spending-reward.pdf",
+    "id": "DM99jBMmroRbHFB"
+  }
+}

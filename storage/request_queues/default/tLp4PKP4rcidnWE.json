@@ -1,0 +1,24 @@
+{
+  "id": "tLp4PKP4rcidnWE",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/loans/products/personal-tax",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:42:55.237548+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/loans/products/personal-tax/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/loans/products/personal-tax/",
+    "handled_at": "2025-02-20 11:42:55.237548+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/loans/products/personal-tax",
+    "id": "tLp4PKP4rcidnWE"
+  }
+}

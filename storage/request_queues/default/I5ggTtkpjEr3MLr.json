@@ -1,0 +1,24 @@
+{
+  "id": "I5ggTtkpjEr3MLr",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/wealth/insights/learn-to-invest/start-investing/2023-06-16/*",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:39.889352+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/wealth/insights/learn-to-invest/start-investing/2023-06-16/*",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/wealth/insights/learn-to-invest/start-investing/2023-06-16/*/",
+    "handled_at": "2025-02-20 12:41:39.889352+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/wealth/insights/learn-to-invest/start-investing/2023-06-16/*",
+    "id": "I5ggTtkpjEr3MLr"
+  }
+}

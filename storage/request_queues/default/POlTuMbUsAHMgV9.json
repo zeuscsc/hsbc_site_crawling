@@ -1,0 +1,24 @@
+{
+  "id": "POlTuMbUsAHMgV9",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/financial-wellbeing/learning-to-set-financial-goals-budget-and-repay-debt",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:16:44.843408+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/financial-wellbeing/learning-to-set-financial-goals-budget-and-repay-debt/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/financial-wellbeing/learning-to-set-financial-goals-budget-and-repay-debt/",
+    "handled_at": "2025-02-20 12:16:44.843408+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/financial-wellbeing/learning-to-set-financial-goals-budget-and-repay-debt",
+    "id": "POlTuMbUsAHMgV9"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "SQlqLOl3wF54nNK",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/transfer-payments/customer-information-sheet-for-outward-payments.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:39:48.085510+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/transfer-payments/customer-information-sheet-for-outward-payments.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:39:48.085510+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/transfer-payments/customer-information-sheet-for-outward-payments.pdf",
+    "id": "SQlqLOl3wF54nNK"
+  }
+}

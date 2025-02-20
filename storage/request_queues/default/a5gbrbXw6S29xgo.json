@@ -1,0 +1,24 @@
+{
+  "id": "a5gbrbXw6S29xgo",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/community-banking/financial-education-for-young-adults-banking-101.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:31.581663+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/community-banking/financial-education-for-young-adults-banking-101.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:31.581663+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/community-banking/financial-education-for-young-adults-banking-101.pdf",
+    "id": "a5gbrbXw6S29xgo"
+  }
+}

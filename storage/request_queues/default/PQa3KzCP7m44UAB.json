@@ -1,0 +1,24 @@
+{
+  "id": "PQa3KzCP7m44UAB",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth-management/legacy/understand-your-needs",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:13:24.394322+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/wealth-management/legacy/understand-your-needs/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/wealth-management/legacy/understand-your-needs/",
+    "handled_at": "2025-02-20 12:13:24.394322+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth-management/legacy/understand-your-needs",
+    "id": "PQa3KzCP7m44UAB"
+  }
+}

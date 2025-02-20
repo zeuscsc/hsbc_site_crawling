@@ -1,0 +1,24 @@
+{
+  "id": "yRDiLLYFtuE5i1e",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/insurance/benefit-plus",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:56:36.428557+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/insurance/benefit-plus/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/insurance/healthylife/",
+    "handled_at": "2025-02-20 11:56:36.428557+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/insurance/benefit-plus",
+    "id": "yRDiLLYFtuE5i1e"
+  }
+}

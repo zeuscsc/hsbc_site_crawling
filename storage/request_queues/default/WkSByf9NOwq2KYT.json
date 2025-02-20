@@ -1,0 +1,24 @@
+{
+  "id": "WkSByf9NOwq2KYT",
+  "unique_key": "https://www.hsbc.com.hk/help/faq/banking/wechat",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:22:43.121738+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/help/faq/banking/wechat/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/help/faq/banking/wechat/",
+    "handled_at": "2025-02-20 11:22:43.121738+00:00",
+    "unique_key": "https://www.hsbc.com.hk/help/faq/banking/wechat",
+    "id": "WkSByf9NOwq2KYT"
+  }
+}

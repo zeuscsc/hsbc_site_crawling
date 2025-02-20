@@ -1,0 +1,24 @@
+{
+  "id": "R6zakYv5NoY4rq8",
+  "unique_key": "https://www.hsbc.com.hk/overdrafts/fees",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:10:14.902323+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/overdrafts/fees/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/overdrafts/fees/",
+    "handled_at": "2025-02-20 11:10:14.902323+00:00",
+    "unique_key": "https://www.hsbc.com.hk/overdrafts/fees",
+    "id": "R6zakYv5NoY4rq8"
+  }
+}

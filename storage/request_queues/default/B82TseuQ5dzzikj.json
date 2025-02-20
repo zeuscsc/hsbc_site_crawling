@@ -1,0 +1,24 @@
+{
+  "id": "B82TseuQ5dzzikj",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/separation/separation-guide-print.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:40:36.845013+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/separation/separation-guide-print.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:40:36.845013+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/separation/separation-guide-print.pdf",
+    "id": "B82TseuQ5dzzikj"
+  }
+}

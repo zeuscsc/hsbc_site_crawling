@@ -1,0 +1,24 @@
+{
+  "id": "vUeqoigNlOPyKX8",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/red-hot-travel-special/travel-offers",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:20:30.170864+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/red-hot-travel-special/travel-offers/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/red-hot-travel-special/travel-offers/offers/",
+    "handled_at": "2025-02-20 12:20:30.170864+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/latest-offers/red-hot-travel-special/travel-offers",
+    "id": "vUeqoigNlOPyKX8"
+  }
+}

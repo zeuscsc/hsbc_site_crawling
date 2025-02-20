@@ -1,0 +1,24 @@
+{
+  "id": "PUIbfxx9tkSLUvp",
+  "unique_key": "https://retailbank.hsbc.com.hk/ins/en/lifetalk/blog2/posts/2024/november/uk_taxation_part2",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:25:24.879425+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/ins/en/lifetalk/blog2/posts/2024/november/uk_taxation_part2/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:25:24.879425+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/ins/en/lifetalk/blog2/posts/2024/november/uk_taxation_part2",
+    "id": "PUIbfxx9tkSLUvp"
+  }
+}

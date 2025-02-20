@@ -1,0 +1,24 @@
+{
+  "id": "phQSj96zk5HcUWW",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/broking/digital-services/new-features",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:33:04.081230+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/broking/digital-services/new-features/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/broking/digital-services/new-features/",
+    "handled_at": "2025-02-20 12:33:04.081230+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/broking/digital-services/new-features",
+    "id": "phQSj96zk5HcUWW"
+  }
+}

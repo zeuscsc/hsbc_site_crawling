@@ -1,0 +1,24 @@
+{
+  "id": "ywtZanifAHw2G0b",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/loans",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:45:41.411126+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/loans/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/loans/",
+    "handled_at": "2025-02-20 10:45:41.411126+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/loans",
+    "id": "ywtZanifAHw2G0b"
+  }
+}

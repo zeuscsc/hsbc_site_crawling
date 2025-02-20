@@ -1,0 +1,24 @@
+{
+  "id": "wjsjzeouxnHpP4T",
+  "unique_key": "https://www.hsbc.com.hk/mortgages/tools/hibor-rate/2020",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:45:02.742668+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/mortgages/tools/hibor-rate/2020/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/mortgages/tools/hibor-rate/2020/",
+    "handled_at": "2025-02-20 11:45:02.742668+00:00",
+    "unique_key": "https://www.hsbc.com.hk/mortgages/tools/hibor-rate/2020",
+    "id": "wjsjzeouxnHpP4T"
+  }
+}

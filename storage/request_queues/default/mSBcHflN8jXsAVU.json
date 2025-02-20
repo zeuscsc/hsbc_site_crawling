@@ -1,0 +1,24 @@
+{
+  "id": "mSBcHflN8jXsAVU",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/travel/overseas-studysurance/2022-may-faq.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:15.469057+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/travel/overseas-studysurance/2022-may-faq.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:15.469057+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/sc/docs/insurance/travel/overseas-studysurance/2022-may-faq.pdf",
+    "id": "mSBcHflN8jXsAVU"
+  }
+}

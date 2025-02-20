@@ -1,0 +1,24 @@
+{
+  "id": "Puto1gm0MJ7toQM",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/investments/products/stocks/easy-invest-app",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:47:00.572436+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/investments/products/stocks/easy-invest-app/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/investments/products/stocks/easy-invest-app/",
+    "handled_at": "2025-02-20 11:47:00.572436+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/investments/products/stocks/easy-invest-app",
+    "id": "Puto1gm0MJ7toQM"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "qQFNYu3KMvAJlai",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/investments/mutual-funds/cool-knowledge/what-makes-currencies-move.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:03.691379+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/investments/mutual-funds/cool-knowledge/what-makes-currencies-move.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:03.691379+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/investments/mutual-funds/cool-knowledge/what-makes-currencies-move.pdf",
+    "id": "qQFNYu3KMvAJlai"
+  }
+}

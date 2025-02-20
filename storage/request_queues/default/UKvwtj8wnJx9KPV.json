@@ -1,0 +1,23 @@
+{
+  "id": "UKvwtj8wnJx9KPV",
+  "unique_key": "https://www.hsbc.com.hk/debit-cards/products/mastercard-debit-card",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:35:58.899483+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/debit-cards/products/mastercard-debit-card/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/debit-cards/products/mastercard-debit-card/",
+    "handled_at": "2025-02-20 10:35:58.899483+00:00",
+    "unique_key": "https://www.hsbc.com.hk/debit-cards/products/mastercard-debit-card",
+    "id": "UKvwtj8wnJx9KPV"
+  }
+}

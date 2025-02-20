@@ -1,0 +1,23 @@
+{
+  "id": "vPdv93iCY7H0khe",
+  "unique_key": "https://investments4.personal-banking.hsbc.com.hk/public-stb/en-gb/market/trade-track/actively-traded",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:39:54.189031+00:00",
+  "request": {
+    "url": "https://investments4.personal-banking.hsbc.com.hk/public-stb/en-gb/market/trade-track/actively-traded",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://investments4.personal-banking.hsbc.com.hk/public-stb/en-gb/market/trade-track/actively-traded",
+    "handled_at": "2025-02-20 10:39:54.189031+00:00",
+    "unique_key": "https://investments4.personal-banking.hsbc.com.hk/public-stb/en-gb/market/trade-track/actively-traded",
+    "id": "vPdv93iCY7H0khe"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "14u35n5g0QcU4V3",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/80461225/tc_sc_2025-red-hot-shopping-special_harbour-city.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:36.498843+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/media/80461225/TC_SC_2025-Red-Hot-Shopping-Special_Harbour-City.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:36.498843+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/80461225/tc_sc_2025-red-hot-shopping-special_harbour-city.pdf",
+    "id": "14u35n5g0QcU4V3"
+  }
+}

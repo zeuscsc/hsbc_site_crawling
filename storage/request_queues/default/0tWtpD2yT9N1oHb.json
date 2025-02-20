@@ -1,0 +1,24 @@
+{
+  "id": "0tWtpD2yT9N1oHb",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/apply-for-a-credit-card/unionpay-dual-currency-cards/unionpay-dual-currency-classic",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:40:32.672453+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/sc/apply-for-a-credit-card/unionpay-dual-currency-cards/unionpay-dual-currency-classic/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/credit-cards/products/unionpay-dual-currency-classic/",
+    "handled_at": "2025-02-20 11:40:32.672453+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/sc/apply-for-a-credit-card/unionpay-dual-currency-cards/unionpay-dual-currency-classic",
+    "id": "0tWtpD2yT9N1oHb"
+  }
+}

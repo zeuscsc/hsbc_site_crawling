@@ -1,0 +1,24 @@
+{
+  "id": "GWgQf3GkdLfbHip",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/loans/personal-instalment/video-transcripts/steps-to-apply-application-via-mobile-app.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:22:42.791511+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/loans/personal-instalment/video-transcripts/steps-to-apply-application-via-mobile-app.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:22:42.791511+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/loans/personal-instalment/video-transcripts/steps-to-apply-application-via-mobile-app.pdf",
+    "id": "GWgQf3GkdLfbHip"
+  }
+}

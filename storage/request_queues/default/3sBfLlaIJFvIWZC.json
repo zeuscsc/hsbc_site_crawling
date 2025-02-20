@@ -1,0 +1,24 @@
+{
+  "id": "3sBfLlaIJFvIWZC",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth-management/future-planner",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:47:57.969853+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/wealth-management/future-planner/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/wealth-management/future-planner/",
+    "handled_at": "2025-02-20 11:47:57.969853+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth-management/future-planner",
+    "id": "3sBfLlaIJFvIWZC"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Y7jyG3MNQIaBD2X",
+  "unique_key": "https://www.warrants.hsbc.com.hk/en/market/fx",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:58:52.491581+00:00",
+  "request": {
+    "url": "https://www.warrants.hsbc.com.hk/en/market/fx",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.warrants.hsbc.com.hk/en/market/fx",
+    "handled_at": "2025-02-20 10:58:52.491581+00:00",
+    "unique_key": "https://www.warrants.hsbc.com.hk/en/market/fx",
+    "id": "Y7jyG3MNQIaBD2X"
+  }
+}

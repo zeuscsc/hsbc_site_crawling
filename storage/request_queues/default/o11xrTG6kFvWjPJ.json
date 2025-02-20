@@ -1,0 +1,24 @@
+{
+  "id": "o11xrTG6kFvWjPJ",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/74775050/2025-1q-premier-card-rc-tnc-sc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:55.649734+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/media/74775050/2025-1Q-Premier-Card-RC-TnC-SC.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:55.649734+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/74775050/2025-1q-premier-card-rc-tnc-sc.pdf",
+    "id": "o11xrTG6kFvWjPJ"
+  }
+}

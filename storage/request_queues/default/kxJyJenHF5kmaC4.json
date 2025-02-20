@@ -1,0 +1,24 @@
+{
+  "id": "kxJyJenHF5kmaC4",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth/insights/esg/why-esg-matters/2024-03-28",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:14:26.494049+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/wealth/insights/esg/why-esg-matters/2024-03-28/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/wealth/insights/esg/why-esg-matters/2024-03-28/",
+    "handled_at": "2025-02-20 12:14:26.494049+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/wealth/insights/esg/why-esg-matters/2024-03-28",
+    "id": "kxJyJenHF5kmaC4"
+  }
+}

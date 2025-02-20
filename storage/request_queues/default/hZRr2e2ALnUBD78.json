@@ -1,0 +1,24 @@
+{
+  "id": "hZRr2e2ALnUBD78",
+  "unique_key": "https://www.hsbc.com.hk/content/hsbc/hk/en_hk/digital/cross-border-banking.html",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:38:15.510157+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/hsbc/hk/en_hk/digital/cross-border-banking.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/digital/cross-border-banking/",
+    "handled_at": "2025-02-20 11:38:15.510157+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/hsbc/hk/en_hk/digital/cross-border-banking.html",
+    "id": "hZRr2e2ALnUBD78"
+  }
+}

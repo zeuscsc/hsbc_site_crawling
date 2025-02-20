@@ -1,0 +1,24 @@
+{
+  "id": "zPfVKL6AMo8yNnF",
+  "unique_key": "https://www.hsbc.com.hk/en-hk/investments/products/structured",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:47:00.466114+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/en-hk/investments/products/structured/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/en-hk/investments/products/structured/",
+    "handled_at": "2025-02-20 11:47:00.466114+00:00",
+    "unique_key": "https://www.hsbc.com.hk/en-hk/investments/products/structured",
+    "id": "zPfVKL6AMo8yNnF"
+  }
+}

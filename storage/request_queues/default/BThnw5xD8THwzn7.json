@@ -1,0 +1,24 @@
+{
+  "id": "BThnw5xD8THwzn7",
+  "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2020/august/vhis_medical",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:45:13.784745+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2020/august/vhis_medical/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2020/august/vhis_medical/",
+    "handled_at": "2025-02-20 12:45:13.784745+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-cn/lifetalk/blog2/posts/2020/august/vhis_medical",
+    "id": "BThnw5xD8THwzn7"
+  }
+}

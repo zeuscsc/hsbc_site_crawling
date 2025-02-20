@@ -1,0 +1,24 @@
+{
+  "id": "3gBev2z4SZMwzl7",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/misc/insurance/fulfillment-ratio",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:28:01.151180+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/misc/insurance/fulfillment-ratio/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/misc/insurance/fulfillment-ratio/",
+    "handled_at": "2025-02-20 11:28:01.151180+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/misc/insurance/fulfillment-ratio",
+    "id": "3gBev2z4SZMwzl7"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "JVwrK3VdWq4aYOT",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/esg-insights/why-esg-matters/heat-on-holidays-clean-sc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:43:49.021727+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/esg-insights/why-esg-matters/heat-on-holidays-clean-sc.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 4
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:43:49.021727+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/en/docs/wealth-insights/esg-insights/why-esg-matters/heat-on-holidays-clean-sc.pdf",
+    "id": "JVwrK3VdWq4aYOT"
+  }
+}

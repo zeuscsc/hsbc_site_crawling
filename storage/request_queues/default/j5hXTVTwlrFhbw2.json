@@ -1,0 +1,24 @@
+{
+  "id": "j5hXTVTwlrFhbw2",
+  "unique_key": "https://retailbank.hsbc.com.hk/debit-card/zh-cn",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:50:18.334168+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/debit-card/zh-cn/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/hkbffoodangelsoulfull/zh-hk/home/",
+    "handled_at": "2025-02-20 11:50:18.334168+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/debit-card/zh-cn",
+    "id": "j5hXTVTwlrFhbw2"
+  }
+}

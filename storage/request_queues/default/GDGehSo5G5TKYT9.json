@@ -1,0 +1,24 @@
+{
+  "id": "GDGehSo5G5TKYT9",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/mpf/products/tvc-accounts/manage",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:45:15.610442+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/mpf/products/tvc-accounts/manage/#top-of-content",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 6
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/mpf/products/tvc-accounts/manage/#top-of-content",
+    "handled_at": "2025-02-20 12:45:15.610442+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/mpf/products/tvc-accounts/manage",
+    "id": "GDGehSo5G5TKYT9"
+  }
+}

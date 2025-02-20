@@ -1,0 +1,24 @@
+{
+  "id": "GXh6ZLnUOx8AdJD",
+  "unique_key": "https://www.hsbc.com.hk/financial-education/managing-money/financial-independence",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:34:47.704669+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/financial-education/managing-money/financial-independence/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/financial-education/managing-money/financial-independence/",
+    "handled_at": "2025-02-20 11:34:47.704669+00:00",
+    "unique_key": "https://www.hsbc.com.hk/financial-education/managing-money/financial-independence",
+    "id": "GXh6ZLnUOx8AdJD"
+  }
+}

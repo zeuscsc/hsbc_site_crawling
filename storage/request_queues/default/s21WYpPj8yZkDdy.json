@@ -1,0 +1,24 @@
+{
+  "id": "s21WYpPj8yZkDdy",
+  "unique_key": "https://www.hsbc.com.hk/zh-hk/insurance/products/home/homesurance",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:49:01.726967+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-hk/insurance/products/home/homesurance/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/insurance/products/home/homesurance/",
+    "handled_at": "2025-02-20 11:49:01.726967+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-hk/insurance/products/home/homesurance",
+    "id": "s21WYpPj8yZkDdy"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1aRF7rNa6GavuFO",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/broking/crs/crs-entity-sample.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:44:26.935600+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/broking/crs/crs-entity-sample.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 5
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:44:26.935600+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/broking/crs/crs-entity-sample.pdf",
+    "id": "1aRF7rNa6GavuFO"
+  }
+}

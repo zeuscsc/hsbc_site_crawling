@@ -1,0 +1,24 @@
+{
+  "id": "tWy86jM1LgGWRcg",
+  "unique_key": "https://www.hsbc.com.hk/content/hsbc/hk/en_hk/accounts/offers/deposits.html",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:53:46.027718+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/hsbc/hk/en_hk/accounts/offers/deposits.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/accounts/offers/deposits/",
+    "handled_at": "2025-02-20 11:53:46.027718+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/hsbc/hk/en_hk/accounts/offers/deposits.html",
+    "id": "tWy86jM1LgGWRcg"
+  }
+}

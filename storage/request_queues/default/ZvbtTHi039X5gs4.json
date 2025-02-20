@@ -1,0 +1,24 @@
+{
+  "id": "ZvbtTHi039X5gs4",
+  "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/offers/iphoneforlifetc.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:32.697339+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/offers/iphoneforlifetc.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:32.697339+00:00",
+    "unique_key": "https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/offers/iphoneforlifetc.pdf",
+    "id": "ZvbtTHi039X5gs4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kzNSXwTi0UN8vHB",
+  "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2024/august/cmb_talent_retention_video",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:25:55.356336+00:00",
+  "request": {
+    "url": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2024/august/cmb_talent_retention_video/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2024/august/cmb_talent_retention_video/",
+    "handled_at": "2025-02-20 12:25:55.356336+00:00",
+    "unique_key": "https://retailbank.hsbc.com.hk/ins/zh-hk/lifetalk/blog2/posts/2024/august/cmb_talent_retention_video",
+    "id": "kzNSXwTi0UN8vHB"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "wpCOtNxHaYicVgf",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/73253576/tc_sc_2024-winter-broadway.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:34.846278+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/media/73253576/TC_SC_2024-Winter-Broadway.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 3
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:34.846278+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/73253576/tc_sc_2024-winter-broadway.pdf",
+    "id": "wpCOtNxHaYicVgf"
+  }
+}

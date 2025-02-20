@@ -1,0 +1,24 @@
+{
+  "id": "35MmEtuTgLRu4wG",
+  "unique_key": "https://www.hsbc.com.hk/community-banking/minority-groups/ethnic-minority",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:41:12.629146+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/community-banking/minority-groups/ethnic-minority/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/community-banking/minority-groups/ethnic-minority/",
+    "handled_at": "2025-02-20 11:41:12.629146+00:00",
+    "unique_key": "https://www.hsbc.com.hk/community-banking/minority-groups/ethnic-minority",
+    "id": "35MmEtuTgLRu4wG"
+  }
+}

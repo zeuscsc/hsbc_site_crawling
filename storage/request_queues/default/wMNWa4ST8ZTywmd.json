@@ -1,0 +1,24 @@
+{
+  "id": "wMNWa4ST8ZTywmd",
+  "unique_key": "https://www.hsbc.com.hk/personal/deposit-accounts/hong-kong-dollar-time-deposit.html",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:34:48.219851+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/personal/deposit-accounts/hong-kong-dollar-time-deposit.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-hk/accounts/products/time-deposits/hk-dollar/",
+    "handled_at": "2025-02-20 11:34:48.219851+00:00",
+    "unique_key": "https://www.hsbc.com.hk/personal/deposit-accounts/hong-kong-dollar-time-deposit.html",
+    "id": "wMNWa4ST8ZTywmd"
+  }
+}

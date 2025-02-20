@@ -1,0 +1,24 @@
+{
+  "id": "oOtg2I1MQYBr3Xw",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/mortgages/products/hibor-based",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:08:24.876639+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/mortgages/products/hibor-based/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/mortgages/products/hibor-based/",
+    "handled_at": "2025-02-20 11:08:24.876639+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/mortgages/products/hibor-based",
+    "id": "oOtg2I1MQYBr3Xw"
+  }
+}

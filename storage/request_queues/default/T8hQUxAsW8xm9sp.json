@@ -1,0 +1,24 @@
+{
+  "id": "T8hQUxAsW8xm9sp",
+  "unique_key": "https://www.hsbc.com.hk/zh-cn/investments/products/gold-services",
+  "order_no": null,
+  "handled_at": "2025-02-20 11:44:03.747861+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/zh-cn/investments/products/gold-services/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/zh-cn/investments/products/gold-services/",
+    "handled_at": "2025-02-20 11:44:03.747861+00:00",
+    "unique_key": "https://www.hsbc.com.hk/zh-cn/investments/products/gold-services",
+    "id": "T8hQUxAsW8xm9sp"
+  }
+}

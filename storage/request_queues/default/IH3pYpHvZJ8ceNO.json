@@ -1,0 +1,24 @@
+{
+  "id": "IH3pYpHvZJ8ceNO",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/81396588/tc_tc_hsbc-k11-promotion-2024.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:41:52.325294+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/media/81396588/TC_TC_HSBC-K11-Promotion-2024.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:41:52.325294+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/81396588/tc_tc_hsbc-k11-promotion-2024.pdf",
+    "id": "IH3pYpHvZJ8ceNO"
+  }
+}

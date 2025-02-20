@@ -1,0 +1,24 @@
+{
+  "id": "TxZfv2PBzyKNA4m",
+  "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/74836356/tc_en_2025-visa-signature-card-exclusive-offers.pdf",
+  "order_no": null,
+  "handled_at": "2025-02-20 12:36:32.077215+00:00",
+  "request": {
+    "url": "https://www.redhotoffers.hsbc.com.hk/media/74836356/TC_EN_2025-Visa-Signature-Card-Exclusive-Offers.pdf",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": "2025-02-20 12:36:32.077215+00:00",
+    "unique_key": "https://www.redhotoffers.hsbc.com.hk/media/74836356/tc_en_2025-visa-signature-card-exclusive-offers.pdf",
+    "id": "TxZfv2PBzyKNA4m"
+  }
+}

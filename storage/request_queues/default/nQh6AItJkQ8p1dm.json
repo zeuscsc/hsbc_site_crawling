@@ -1,0 +1,24 @@
+{
+  "id": "nQh6AItJkQ8p1dm",
+  "unique_key": "https://www.hsbc.com.hk/mpf/tool/retirement-planner",
+  "order_no": null,
+  "handled_at": "2025-02-20 10:42:40.088572+00:00",
+  "request": {
+    "url": "https://www.hsbc.com.hk/mpf/tool/retirement-planner/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.hsbc.com.hk/mpf/tool/retirement-planner/",
+    "handled_at": "2025-02-20 10:42:40.088572+00:00",
+    "unique_key": "https://www.hsbc.com.hk/mpf/tool/retirement-planner",
+    "id": "nQh6AItJkQ8p1dm"
+  }
+}
