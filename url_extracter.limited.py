@@ -15,6 +15,7 @@ async def main():
             data={
                 'url': await element.get_attribute('href'),
                 'title': (await element.text_content()).replace('\n', ' ').strip(),
+                'parent_url': context.request.url,
             }
             crawling_links.append(data)
             pass
@@ -22,6 +23,7 @@ async def main():
             data={
                 'url': await (await element.query_selector('a')).get_attribute('href'),
                 'title': (await element.text_content()).replace('\n', ' ').strip(),
+                'parent_url': context.request.url,
             }
             crawling_links.append(data)
             pass
@@ -33,7 +35,7 @@ async def main():
         max_request_retries=3,
         headless=True,
     )
-    await crawler.run(['https://www.hsbc.com.hk/'])
+    await crawler.run(['https://www.hsbc.com.hk/','https://www.hsbc.com.hk/zh-hk/'])
 
     import os
     import json
@@ -48,7 +50,7 @@ async def main():
         for filename in files:
             if filename.endswith(".json") and filename != "__metadata__.json" and re.match(r"^\d+\.json$", filename):
                 file_path = os.path.join(folder_path, filename)
-                with open(file_path, 'r') as f:
+                with open(file_path, 'r',encoding="utf-8") as f:
                     try:
                         json_object = json.load(f)
                         json_list.append(json_object)
@@ -59,23 +61,20 @@ async def main():
     except Exception as e:
         print(f"An error occurred: {e}")
 
-    try:
-        df = pd.DataFrame(json_list)
-        def transform_url(url:str):
-            if url.startswith("/"):
-                return "https://www.hsbc.com.hk" + url
-            else:
-                return url
-        def extract_base_url(url):
-            parsed_url = urlparse(url)
-            base_url = parsed_url.scheme + "://" + parsed_url.netloc
-            return base_url
-        df['full_url'] = df['url'].apply(transform_url)
-        df['base_url'] = df['full_url'].apply(extract_base_url)
-        df.to_csv(output_file, index=False)
-        print(f"Saved to: {output_file}")
-    except Exception as e:
-        print(f"Error saving list to file: {e}")
+    df = pd.DataFrame(json_list)
+    def transform_url(url:str,base_url:str):
+        if url.startswith("/"):
+            return urlparse(base_url).scheme + "://" + urlparse(base_url).netloc + url
+        else:
+            return url
+    def extract_base_url(url):
+        parsed_url = urlparse(url)
+        base_url = parsed_url.scheme + "://" + parsed_url.netloc
+        return base_url
+    df['full_url'] = df['url'].apply(lambda x: transform_url(x, df['parent_url'].iloc[0]))
+    df['base_url'] = df['full_url'].apply(extract_base_url)
+    df.to_csv(output_file, index=False)
+    print(f"Saved to: {output_file}")
 
 
 if __name__ == '__main__':
